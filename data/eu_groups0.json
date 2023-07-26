@@ -1,0 +1,34 @@
+[
+  {
+    "political_group": "ECR",
+    "Mean(final_grade)": 2.850558894091693
+  },
+  {
+    "political_group": "ID",
+    "Mean(final_grade)": 3.6578461488394227
+  },
+  {
+    "political_group": "EPP",
+    "Mean(final_grade)": 6.746713782514638
+  },
+  {
+    "political_group": "Renew",
+    "Mean(final_grade)": 8.083459702868604
+  },
+  {
+    "political_group": "NI",
+    "Mean(final_grade)": 9.418356828098284
+  },
+  {
+    "political_group": "S&D",
+    "Mean(final_grade)": 13.322162133250487
+  },
+  {
+    "political_group": "GUE/NGL",
+    "Mean(final_grade)": 17.75261491442652
+  },
+  {
+    "political_group": "Greens/EFA",
+    "Mean(final_grade)": 19.60262725430361
+  }
+]

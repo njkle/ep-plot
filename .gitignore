@@ -1,0 +1,15 @@
+# Dependencies
+/node_modules
+
+# IDEs and editors
+/.vscode
+
+# ESLint config
+/.eslintrc.json
+
+# Prettier config and ignore files
+/.prettierignore
+/.prettierrc.json
+
+package-lock.json
+package.json
