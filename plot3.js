@@ -26,13 +26,12 @@ const path = d3.geoPath().projection(projection);
 
 // Load the data
 d3.json("data/countries0.json").then((gradesData) => {
-  // const { lowestGrade, highestGrade } = minMaxGradeFinder(gradesData);
+  const { lowestGrade, highestGrade } = minMaxGradeFinder(gradesData);
 
   // Set a color scale
   const color = d3
     .scaleSequential()
-    .domain([3, 16])
-    // ou .domain([lowestGrade, highestGrade])
+    .domain([lowestGrade, highestGrade])
     .interpolator(d3.interpolateRdYlGn);
 
   d3.json("data/europe.geojson").then((mapData) => {
