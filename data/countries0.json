@@ -1,0 +1,79 @@
+[ {
+  "code" : "at",
+  "average_grade" : 10.663740989351538
+}, {
+  "code" : "be",
+  "average_grade" : 11.068797160852403
+}, {
+  "code" : "bg",
+  "average_grade" : 7.695960305542084
+}, {
+  "code" : "cy",
+  "average_grade" : 13.338816233427458
+}, {
+  "code" : "cz",
+  "average_grade" : 8.672526258396465
+}, {
+  "code" : "de",
+  "average_grade" : 11.846603065771669
+}, {
+  "code" : "dk",
+  "average_grade" : 10.577233607427925
+}, {
+  "code" : "ee",
+  "average_grade" : 6.73329071997894
+}, {
+  "code" : "es",
+  "average_grade" : 9.967958367479465
+}, {
+  "code" : "fi",
+  "average_grade" : 10.318544747965996
+}, {
+  "code" : "fr",
+  "average_grade" : 10.821945349010239
+}, {
+  "code" : "hr",
+  "average_grade" : 9.258037622762755
+}, {
+  "code" : "hu",
+  "average_grade" : 9.40701878634498
+}, {
+  "code" : "ie",
+  "average_grade" : 13.096371373821372
+}, {
+  "code" : "it",
+  "average_grade" : 7.513211344540907
+}, {
+  "code" : "lt",
+  "average_grade" : 10.15531167746781
+}, {
+  "code" : "lu",
+  "average_grade" : 10.185137728683475
+}, {
+  "code" : "lv",
+  "average_grade" : 8.206561981999563
+}, {
+  "code" : "mt",
+  "average_grade" : 9.70172325242468
+}, {
+  "code" : "nl",
+  "average_grade" : 8.563176092488225
+}, {
+  "code" : "pl",
+  "average_grade" : 5.49847910823014
+}, {
+  "code" : "pt",
+  "average_grade" : 11.794268440687555
+}, {
+  "code" : "ro",
+  "average_grade" : 8.667064510040964
+}, {
+  "code" : "se",
+  "average_grade" : 10.317497331220029
+}, {
+  "code" : "si",
+  "average_grade" : 9.468581760332611
+}, {
+  "code" : "sk",
+  "average_grade" : 11.747261468355065
+} ]

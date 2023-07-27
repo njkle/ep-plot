@@ -33,8 +33,24 @@ const svg = d3
 
 // Fetch and process data
 d3.json("data/eu_groups0.json").then((data) => {
+  const order = [
+    "GUE/NGL",
+    "S&D",
+    "Greens/EFA",
+    "Renew",
+    "EPP",
+    "ECR",
+    "ID",
+    "NI",
+  ];
+
+  data.sort(
+    (a, b) =>
+      order.indexOf(a.political_group) - order.indexOf(b.political_group),
+  );
+
   x.domain(data.map((d) => d.political_group));
-  y.domain([0, d3.max(data, (d) => d["Mean(final_grade)"])]);
+  y.domain([0, d3.max(data, (d) => d.average_grade)]);
 
   // Append the bars
 
@@ -45,9 +61,9 @@ d3.json("data/eu_groups0.json").then((data) => {
     .append("rect")
     // In case I want to add a class for styling : .attr("class", "bar")
     .attr("x", (d) => x(d.political_group))
-    .attr("y", (d) => y(d["Mean(final_grade)"]))
+    .attr("y", (d) => y(d.average_grade))
     .attr("width", x.bandwidth())
-    .attr("height", (d) => height - y(d["Mean(final_grade)"]))
+    .attr("height", (d) => height - y(d.average_grade))
     .attr("fill", (d) => color(d.political_group));
 
   // Append the axis

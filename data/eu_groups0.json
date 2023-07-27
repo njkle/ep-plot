@@ -1,34 +1,42 @@
 [
   {
     "political_group": "ECR",
-    "Mean(final_grade)": 2.850558894091693
-  },
-  {
-    "political_group": "ID",
-    "Mean(final_grade)": 3.6578461488394227
+    "average_grade": 2.8516602280255805,
+    "group_size": 78
   },
   {
     "political_group": "EPP",
-    "Mean(final_grade)": 6.746713782514638
-  },
-  {
-    "political_group": "Renew",
-    "Mean(final_grade)": 8.083459702868604
-  },
-  {
-    "political_group": "NI",
-    "Mean(final_grade)": 9.418356828098284
-  },
-  {
-    "political_group": "S&D",
-    "Mean(final_grade)": 13.322162133250487
+    "average_grade": 6.743981901564043,
+    "group_size": 190
   },
   {
     "political_group": "GUE/NGL",
-    "Mean(final_grade)": 17.75261491442652
+    "average_grade": 17.751795685293498,
+    "group_size": 42
   },
   {
     "political_group": "Greens/EFA",
-    "Mean(final_grade)": 19.60262725430361
+    "average_grade": 19.60243754116159,
+    "group_size": 88
+  },
+  {
+    "political_group": "ID",
+    "average_grade": 3.6569559509426344,
+    "group_size": 69
+  },
+  {
+    "political_group": "NI",
+    "average_grade": 9.41661290464393,
+    "group_size": 27
+  },
+  {
+    "political_group": "Renew",
+    "average_grade": 8.082679673818602,
+    "group_size": 127
+  },
+  {
+    "political_group": "S&D",
+    "average_grade": 13.320393103473132,
+    "group_size": 171
   }
 ]
