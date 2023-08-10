@@ -1,0 +1,33 @@
+[ {
+  "political_group" : "ECR",
+  "average_grade" : 1.8100259637654594,
+  "group_size" : 70
+}, {
+  "political_group" : "EPP",
+  "average_grade" : 5.796319622406581,
+  "group_size" : 185
+}, {
+  "political_group" : "GUE/NGL",
+  "average_grade" : 18.762983757504216,
+  "group_size" : 40
+}, {
+  "political_group" : "Greens/EFA",
+  "average_grade" : 19.664671802829705,
+  "group_size" : 74
+}, {
+  "political_group" : "ID",
+  "average_grade" : 1.5346187687243806,
+  "group_size" : 68
+}, {
+  "political_group" : "NI",
+  "average_grade" : 8.760199392055128,
+  "group_size" : 48
+}, {
+  "political_group" : "Renew",
+  "average_grade" : 10.245566225605755,
+  "group_size" : 110
+}, {
+  "political_group" : "S&D",
+  "average_grade" : 14.172811670343073,
+  "group_size" : 158
+} ]

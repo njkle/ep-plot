@@ -1,0 +1,6025 @@
+[ {
+  "plenary_id" : 1793,
+  "firstname" : "Charles",
+  "lastname" : "GOERENS",
+  "country" : "lu",
+  "political_group" : "Renew",
+  "national_political_group" : "Parti démocratique",
+  "grade" : 11.538461538461538
+}, {
+  "plenary_id" : 3761,
+  "firstname" : "Constanze",
+  "lastname" : "KREHL",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 3800,
+  "firstname" : "Carlos",
+  "lastname" : "COELHO",
+  "country" : "pt",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "grade" : 3.3333333333333335
+}, {
+  "plenary_id" : 3823,
+  "firstname" : "Bernd",
+  "lastname" : "LANGE",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 14.4
+}, {
+  "plenary_id" : 3827,
+  "firstname" : "Evelyne",
+  "lastname" : "GEBHARDT",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 14.0
+}, {
+  "plenary_id" : 3833,
+  "firstname" : "Markus",
+  "lastname" : "FERBER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "grade" : 5.6
+}, {
+  "plenary_id" : 3855,
+  "firstname" : "Peter",
+  "lastname" : "LIESE",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 3980,
+  "firstname" : "José Manuel",
+  "lastname" : "GARCÍA-MARGALLO Y MARFIL",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 3.0
+}, {
+  "plenary_id" : 4482,
+  "firstname" : "Antonio",
+  "lastname" : "TAJANI",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 7.5
+}, {
+  "plenary_id" : 4535,
+  "firstname" : "Heidi",
+  "lastname" : "HAUTALA",
+  "country" : "fi",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Vihreä liitto",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 4643,
+  "firstname" : "Rainer",
+  "lastname" : "WIELAND",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 4659,
+  "firstname" : "Michael",
+  "lastname" : "GAHLER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 4669,
+  "firstname" : "Othmar",
+  "lastname" : "KARAS",
+  "country" : "at",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "grade" : 6.0
+}, {
+  "plenary_id" : 4676,
+  "firstname" : "Frédérique",
+  "lastname" : "RIES",
+  "country" : "be",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Réformateur",
+  "grade" : 12.307692307692308
+}, {
+  "plenary_id" : 4690,
+  "firstname" : "Udo",
+  "lastname" : "BULLMANN",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 4712,
+  "firstname" : "Angelika",
+  "lastname" : "NIEBLER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 4767,
+  "firstname" : "María Soraya",
+  "lastname" : "RODRÍGUEZ RAMOS",
+  "country" : "es",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 4806,
+  "firstname" : "Silvio",
+  "lastname" : "BERLUSCONI",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 6.0
+}, {
+  "plenary_id" : 4880,
+  "firstname" : "Raffaele",
+  "lastname" : "FITTO",
+  "country" : "it",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "grade" : 4.0
+}, {
+  "plenary_id" : 4964,
+  "firstname" : "Antonius",
+  "lastname" : "MANDERS",
+  "country" : "nl",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen Democratisch Appèl",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 4978,
+  "firstname" : "Sergio",
+  "lastname" : "BERLATO",
+  "country" : "it",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 4987,
+  "firstname" : "Brice",
+  "lastname" : "HORTEFEUX",
+  "country" : "fr",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 4990,
+  "firstname" : "Kathleen",
+  "lastname" : "VAN BREMPT",
+  "country" : "be",
+  "political_group" : "S&D",
+  "national_political_group" : "Vooruit",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 5021,
+  "firstname" : "Fabienne",
+  "lastname" : "KELLER",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Agir - La Droite constructive",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 5039,
+  "firstname" : "Kateřina",
+  "lastname" : "KONEČNÁ",
+  "country" : "cz",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Komunistická strana Čech a Moravy",
+  "grade" : 7.5
+}, {
+  "plenary_id" : 5052,
+  "firstname" : "Jan",
+  "lastname" : "ZAHRADIL",
+  "country" : "cz",
+  "political_group" : "ECR",
+  "national_political_group" : "Občanská demokratická strana",
+  "grade" : 2.5
+}, {
+  "plenary_id" : 5094,
+  "firstname" : "Bogusław",
+  "lastname" : "LIBERADZKI",
+  "country" : "pl",
+  "political_group" : "S&D",
+  "national_political_group" : "Nowa Lewica",
+  "grade" : 16.842105263157894
+}, {
+  "plenary_id" : 5105,
+  "firstname" : "Janusz",
+  "lastname" : "LEWANDOWSKI",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 5112,
+  "firstname" : "Adam",
+  "lastname" : "BIELAN",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Partia Republikańska",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 5138,
+  "firstname" : "András",
+  "lastname" : "GYÜRK",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.0
+}, {
+  "plenary_id" : 5143,
+  "firstname" : "József",
+  "lastname" : "SZÁJER",
+  "country" : "hu",
+  "political_group" : "EPP",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 6.666666666666667
+}, {
+  "plenary_id" : 5173,
+  "firstname" : "Monika",
+  "lastname" : "BEŇOVÁ",
+  "country" : "sk",
+  "political_group" : "S&D",
+  "national_political_group" : "SMER-Sociálna demokracia",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 5236,
+  "firstname" : "Lefteris",
+  "lastname" : "CHRISTOFOROU",
+  "country" : "cy",
+  "political_group" : "EPP",
+  "national_political_group" : "Democratic Rally",
+  "grade" : 6.0
+}, {
+  "plenary_id" : 5252,
+  "firstname" : "David",
+  "lastname" : "CASA",
+  "country" : "mt",
+  "political_group" : "EPP",
+  "national_political_group" : "Partit Nazzjonalista",
+  "grade" : 6.923076923076923
+}, {
+  "plenary_id" : 5271,
+  "firstname" : "Lívia",
+  "lastname" : "JÁRÓKA",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.75
+}, {
+  "plenary_id" : 5280,
+  "firstname" : "Kinga",
+  "lastname" : "GÁL",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.2
+}, {
+  "plenary_id" : 5291,
+  "firstname" : "Margrete",
+  "lastname" : "AUKEN",
+  "country" : "dk",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Socialistisk Folkeparti",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5341,
+  "firstname" : "Daniel",
+  "lastname" : "CASPARY",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 5345,
+  "firstname" : "Andreas",
+  "lastname" : "SCHWAB",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 6.0
+}, {
+  "plenary_id" : 5346,
+  "firstname" : "Markus",
+  "lastname" : "PIEPER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 5348,
+  "firstname" : "Christian",
+  "lastname" : "EHLER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 5351,
+  "firstname" : "Manfred",
+  "lastname" : "WEBER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 5385,
+  "firstname" : "Sophia",
+  "lastname" : "IN 'T VELD",
+  "country" : "nl",
+  "political_group" : "Renew",
+  "national_political_group" : "Independent",
+  "grade" : 16.0
+}, {
+  "plenary_id" : 5388,
+  "firstname" : "Jerzy",
+  "lastname" : "BUZEK",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 5.6
+}, {
+  "plenary_id" : 5407,
+  "firstname" : "Jan",
+  "lastname" : "OLBRYCHT",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 5.6
+}, {
+  "plenary_id" : 5413,
+  "firstname" : "Ljudmila",
+  "lastname" : "NOVAK",
+  "country" : "si",
+  "political_group" : "EPP",
+  "national_political_group" : "Nova Slovenija – Krščanski demokrati",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 5416,
+  "firstname" : "Jacek",
+  "lastname" : "SARYUSZ-WOLSKI",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 5417,
+  "firstname" : "Iratxe",
+  "lastname" : "GARCÍA PÉREZ",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 5459,
+  "firstname" : "Patrizia",
+  "lastname" : "TOIA",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 12.307692307692308
+}, {
+  "plenary_id" : 5465,
+  "firstname" : "Mercedes",
+  "lastname" : "BRESSO",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5466,
+  "firstname" : "Javier",
+  "lastname" : "MORENO SÁNCHEZ",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 5472,
+  "firstname" : "Anna",
+  "lastname" : "FOTYGA",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 5490,
+  "firstname" : "Ryszard",
+  "lastname" : "CZARNECKI",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 5507,
+  "firstname" : "Zbigniew",
+  "lastname" : "KUŹMIUK",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.8
+}, {
+  "plenary_id" : 5508,
+  "firstname" : "Pilar",
+  "lastname" : "del CASTILLO VERA",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 4.8
+}, {
+  "plenary_id" : 5517,
+  "firstname" : "Antonio",
+  "lastname" : "LÓPEZ-ISTÚRIZ WHITE",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 5518,
+  "firstname" : "Francisco José",
+  "lastname" : "MILLÁN MON",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 5547,
+  "firstname" : "Alessandra",
+  "lastname" : "MUSSOLINI",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 3.3333333333333335
+}, {
+  "plenary_id" : 5596,
+  "firstname" : "Dimitrios",
+  "lastname" : "PAPADIMOULIS",
+  "country" : "gr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Coalition of the Radical Left",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 5598,
+  "firstname" : "Roberts",
+  "lastname" : "ZĪLE",
+  "country" : "lv",
+  "political_group" : "ECR",
+  "national_political_group" : "Nacionālā apvienība \"Visu Latvijai!\"-\"Tēvzemei un Brīvībai/LNNK\"",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 5600,
+  "firstname" : "Inese",
+  "lastname" : "VAIDERE",
+  "country" : "lv",
+  "political_group" : "EPP",
+  "national_political_group" : "Partija \"VIENOTĪBA\"",
+  "grade" : 8.461538461538462
+}, {
+  "plenary_id" : 5602,
+  "firstname" : "Tatjana",
+  "lastname" : "ŽDANOKA",
+  "country" : "lv",
+  "political_group" : "NI",
+  "national_political_group" : "Latvijas Krievu savienība",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 5624,
+  "firstname" : "Marc",
+  "lastname" : "TARABELLA",
+  "country" : "be",
+  "political_group" : "NI",
+  "national_political_group" : "Independent",
+  "grade" : 16.153846153846153
+}, {
+  "plenary_id" : 5646,
+  "firstname" : "Marian-Jean",
+  "lastname" : "MARINESCU",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 5661,
+  "firstname" : "Corina",
+  "lastname" : "CREȚU",
+  "country" : "ro",
+  "political_group" : "S&D",
+  "national_political_group" : "PRO Romania",
+  "grade" : 12.380952380952381
+}, {
+  "plenary_id" : 5702,
+  "firstname" : "Aldo",
+  "lastname" : "PATRICIELLO",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 6.0
+}, {
+  "plenary_id" : 5713,
+  "firstname" : "Christel",
+  "lastname" : "SCHALDEMOSE",
+  "country" : "dk",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialdemokratiet",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 5727,
+  "firstname" : "Esther",
+  "lastname" : "de LANGE",
+  "country" : "nl",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen Democratisch Appèl",
+  "grade" : 4.0
+}, {
+  "plenary_id" : 5729,
+  "firstname" : "Cristian-Silviu",
+  "lastname" : "BUŞOI",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "grade" : 4.0
+}, {
+  "plenary_id" : 5731,
+  "firstname" : "Rovana",
+  "lastname" : "PLUMB",
+  "country" : "ro",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 5782,
+  "firstname" : "Iuliu",
+  "lastname" : "WINKLER",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Uniunea Democrată Maghiară din România",
+  "grade" : 6.923076923076923
+}, {
+  "plenary_id" : 5788,
+  "firstname" : "Sirpa",
+  "lastname" : "PIETIKÄINEN",
+  "country" : "fi",
+  "political_group" : "EPP",
+  "national_political_group" : "Kansallinen Kokoomus",
+  "grade" : 19.166666666666668
+}, {
+  "plenary_id" : 5837,
+  "firstname" : "Helmut",
+  "lastname" : "SCHOLZ",
+  "country" : "de",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "DIE LINKE.",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5838,
+  "firstname" : "Philippe",
+  "lastname" : "LAMBERTS",
+  "country" : "be",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5842,
+  "firstname" : "Katarína",
+  "lastname" : "ROTH NEVEĎALOVÁ",
+  "country" : "sk",
+  "political_group" : "S&D",
+  "national_political_group" : "SMER-Sociálna demokracia",
+  "grade" : 16.666666666666668
+}, {
+  "plenary_id" : 5855,
+  "firstname" : "Seán",
+  "lastname" : "KELLY",
+  "country" : "ie",
+  "political_group" : "EPP",
+  "national_political_group" : "Fine Gael Party",
+  "grade" : 7.6923076923076925
+}, {
+  "plenary_id" : 5867,
+  "firstname" : "Vilija",
+  "lastname" : "BLINKEVIČIŪTĖ",
+  "country" : "lt",
+  "political_group" : "S&D",
+  "national_political_group" : "Lietuvos socialdemokratų partija",
+  "grade" : 13.0
+}, {
+  "plenary_id" : 5878,
+  "firstname" : "Waldemar",
+  "lastname" : "TOMASZEWSKI",
+  "country" : "lt",
+  "political_group" : "ECR",
+  "national_political_group" : "Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga",
+  "grade" : 2.727272727272727
+}, {
+  "plenary_id" : 5879,
+  "firstname" : "Viktor",
+  "lastname" : "USPASKICH",
+  "country" : "lt",
+  "political_group" : "NI",
+  "national_political_group" : "Darbo partija",
+  "grade" : 11.0
+}, {
+  "plenary_id" : 5886,
+  "firstname" : "João",
+  "lastname" : "FERREIRA",
+  "country" : "pt",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Partido Comunista Português",
+  "grade" : 13.333333333333334
+}, {
+  "plenary_id" : 5889,
+  "firstname" : "Morten",
+  "lastname" : "LØKKEGAARD",
+  "country" : "dk",
+  "political_group" : "Renew",
+  "national_political_group" : "Venstre, Danmarks Liberale Parti",
+  "grade" : 5.454545454545454
+}, {
+  "plenary_id" : 5891,
+  "firstname" : "Pascal",
+  "lastname" : "CANFIN",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 5892,
+  "firstname" : "Evžen",
+  "lastname" : "TOŠENOVSKÝ",
+  "country" : "cz",
+  "political_group" : "ECR",
+  "national_political_group" : "Občanská demokratická strana",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 5899,
+  "firstname" : "Bas",
+  "lastname" : "EICKHOUT",
+  "country" : "nl",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "GroenLinks",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5904,
+  "firstname" : "Sven",
+  "lastname" : "GIEGOLD",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5908,
+  "firstname" : "Ska",
+  "lastname" : "KELLER",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5913,
+  "firstname" : "Reinhard",
+  "lastname" : "BÜTIKOFER",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 18.94736842105263
+}, {
+  "plenary_id" : 5914,
+  "firstname" : "Yannick",
+  "lastname" : "JADOT",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5917,
+  "firstname" : "Michèle",
+  "lastname" : "RIVASI",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5921,
+  "firstname" : "Arnaud",
+  "lastname" : "DANJEAN",
+  "country" : "fr",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 5924,
+  "firstname" : "François",
+  "lastname" : "ALFONSI",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Régions et Peuples Solidaires",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 5926,
+  "firstname" : "Martin",
+  "lastname" : "HÄUSLING",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5930,
+  "firstname" : "Sabine",
+  "lastname" : "VERHEYEN",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 4.8
+}, {
+  "plenary_id" : 5934,
+  "firstname" : "Axel",
+  "lastname" : "VOSS",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 5944,
+  "firstname" : "Jarosław",
+  "lastname" : "KALINOWSKI",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Polskie Stronnictwo Ludowe",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 5945,
+  "firstname" : "Peter",
+  "lastname" : "JAHR",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 5949,
+  "firstname" : "Róża",
+  "lastname" : "THUN UND HOHENSTEIN",
+  "country" : "pl",
+  "political_group" : "Renew",
+  "national_political_group" : "Polska 2050",
+  "grade" : 17.692307692307693
+}, {
+  "plenary_id" : 5952,
+  "firstname" : "Danuta Maria",
+  "lastname" : "HÜBNER",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 8.571428571428571
+}, {
+  "plenary_id" : 5953,
+  "firstname" : "Monika",
+  "lastname" : "HOHLMEIER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "grade" : 4.8
+}, {
+  "plenary_id" : 5960,
+  "firstname" : "Herbert",
+  "lastname" : "DORFMANN",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Südtiroler Volkspartei",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 5964,
+  "firstname" : "Elżbieta Katarzyna",
+  "lastname" : "ŁUKACIJEWSKA",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 7.0
+}, {
+  "plenary_id" : 5969,
+  "firstname" : "Ryszard Antoni",
+  "lastname" : "LEGUTKO",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 5974,
+  "firstname" : "Tomasz Piotr",
+  "lastname" : "PORĘBA",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 5980,
+  "firstname" : "Pablo",
+  "lastname" : "ARIAS ECHEVERRÍA",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 5981,
+  "firstname" : "Peter",
+  "lastname" : "van DALEN",
+  "country" : "nl",
+  "political_group" : "EPP",
+  "national_political_group" : "ChristenUnie",
+  "grade" : 6.923076923076923
+}, {
+  "plenary_id" : 5982,
+  "firstname" : "Carlo",
+  "lastname" : "FIDANZA",
+  "country" : "it",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 5983,
+  "firstname" : "Rosa",
+  "lastname" : "ESTARÀS FERRAGUT",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 5984,
+  "firstname" : "Juan Fernando",
+  "lastname" : "LÓPEZ AGUILAR",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 14.4
+}, {
+  "plenary_id" : 5992,
+  "firstname" : "Marisa",
+  "lastname" : "MATIAS",
+  "country" : "pt",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Bloco de Esquerda",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 5998,
+  "firstname" : "Tamás",
+  "lastname" : "DEUTSCH",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.5294117647058822
+}, {
+  "plenary_id" : 6001,
+  "firstname" : "Ádám",
+  "lastname" : "KÓSA",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6002,
+  "firstname" : "Enikő",
+  "lastname" : "GYŐRI",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.2
+}, {
+  "plenary_id" : 6005,
+  "firstname" : "Jens",
+  "lastname" : "GEIER",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6009,
+  "firstname" : "Petra",
+  "lastname" : "KAMMEREVERT",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6014,
+  "firstname" : "Ismail",
+  "lastname" : "ERTUG",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 12.631578947368421
+}, {
+  "plenary_id" : 6016,
+  "firstname" : "Norbert",
+  "lastname" : "NEUSER",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 14.0
+}, {
+  "plenary_id" : 6024,
+  "firstname" : "Cornelia",
+  "lastname" : "ERNST",
+  "country" : "de",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "DIE LINKE.",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 6039,
+  "firstname" : "Maria da Graça",
+  "lastname" : "CARVALHO",
+  "country" : "pt",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6040,
+  "firstname" : "Karima",
+  "lastname" : "DELLI",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6051,
+  "firstname" : "Andrea",
+  "lastname" : "COZZOLINO",
+  "country" : "it",
+  "political_group" : "NI",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 10.526315789473685
+}, {
+  "plenary_id" : 6056,
+  "firstname" : "Dominique",
+  "lastname" : "RIQUET",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Radical Social-Libéral",
+  "grade" : 11.538461538461538
+}, {
+  "plenary_id" : 6062,
+  "firstname" : "Paolo",
+  "lastname" : "DE CASTRO",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 10.833333333333334
+}, {
+  "plenary_id" : 6068,
+  "firstname" : "José Manuel",
+  "lastname" : "FERNANDES",
+  "country" : "pt",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6072,
+  "firstname" : "Paulo",
+  "lastname" : "RANGEL",
+  "country" : "pt",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6080,
+  "firstname" : "Tanja",
+  "lastname" : "FAJON",
+  "country" : "si",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialni demokrati",
+  "grade" : 16.0
+}, {
+  "plenary_id" : 6089,
+  "firstname" : "Izaskun",
+  "lastname" : "BILBAO BARANDICA",
+  "country" : "es",
+  "political_group" : "Renew",
+  "national_political_group" : "Partido Nacionalista Vasco",
+  "grade" : 6.923076923076923
+}, {
+  "plenary_id" : 6093,
+  "firstname" : "Birgit",
+  "lastname" : "SIPPEL",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6094,
+  "firstname" : "Milan",
+  "lastname" : "ZVER",
+  "country" : "si",
+  "political_group" : "EPP",
+  "national_political_group" : "Slovenska demokratska stranka",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6095,
+  "firstname" : "Sandra",
+  "lastname" : "KALNIETE",
+  "country" : "lv",
+  "political_group" : "EPP",
+  "national_political_group" : "Partija \"VIENOTĪBA\"",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6096,
+  "firstname" : "Gabriel",
+  "lastname" : "MATO",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 6107,
+  "firstname" : "Sylvie",
+  "lastname" : "GUILLAUME",
+  "country" : "fr",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti socialiste",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 6121,
+  "firstname" : "Nuno",
+  "lastname" : "MELO",
+  "country" : "pt",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido do Centro Democrático Social-Partido Popular",
+  "grade" : 4.8
+}, {
+  "plenary_id" : 6130,
+  "firstname" : "Eider",
+  "lastname" : "GARDIAZABAL RUBIAL",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6136,
+  "firstname" : "Evelyn",
+  "lastname" : "REGNER",
+  "country" : "at",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 6159,
+  "firstname" : "Guy",
+  "lastname" : "VERHOFSTADT",
+  "country" : "be",
+  "political_group" : "Renew",
+  "national_political_group" : "Open Vlaamse Liberalen en Democraten",
+  "grade" : 11.0
+}, {
+  "plenary_id" : 6167,
+  "firstname" : "Derk Jan",
+  "lastname" : "EPPINK",
+  "country" : "nl",
+  "political_group" : "ECR",
+  "national_political_group" : "JA21",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 6179,
+  "firstname" : "Mara",
+  "lastname" : "BIZZOTTO",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 2.5
+}, {
+  "plenary_id" : 6196,
+  "firstname" : "Andrey",
+  "lastname" : "KOVATCHEV",
+  "country" : "bg",
+  "political_group" : "EPP",
+  "national_political_group" : "Citizens for European Development of Bulgaria",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6250,
+  "firstname" : "Younous",
+  "lastname" : "OMARJEE",
+  "country" : "fr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6251,
+  "firstname" : "Ana",
+  "lastname" : "MIRANDA",
+  "country" : "es",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bloque Nacionalista Galego",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6259,
+  "firstname" : "Petri",
+  "lastname" : "SARVAMAA",
+  "country" : "fi",
+  "political_group" : "EPP",
+  "national_political_group" : "Kansallinen Kokoomus",
+  "grade" : 6.4
+}, {
+  "plenary_id" : 6261,
+  "firstname" : "Tonino",
+  "lastname" : "PICULA",
+  "country" : "hr",
+  "political_group" : "S&D",
+  "national_political_group" : "Socijaldemokratska partija Hrvatske",
+  "grade" : 14.4
+}, {
+  "plenary_id" : 6263,
+  "firstname" : "Romana",
+  "lastname" : "JERKOVIĆ",
+  "country" : "hr",
+  "political_group" : "S&D",
+  "national_political_group" : "Socijaldemokratska partija Hrvatske",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6264,
+  "firstname" : "Biljana",
+  "lastname" : "BORZAN",
+  "country" : "hr",
+  "political_group" : "S&D",
+  "national_political_group" : "Socijaldemokratska partija Hrvatske",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6279,
+  "firstname" : "Eric",
+  "lastname" : "ANDRIEU",
+  "country" : "fr",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti socialiste",
+  "grade" : 14.0
+}, {
+  "plenary_id" : 6281,
+  "firstname" : "Nils",
+  "lastname" : "TORVALDS",
+  "country" : "fi",
+  "political_group" : "Renew",
+  "national_political_group" : "Svenska folkpartiet",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 6297,
+  "firstname" : "Roberta",
+  "lastname" : "METSOLA",
+  "country" : "mt",
+  "political_group" : "EPP",
+  "national_political_group" : "Partit Nazzjonalista",
+  "grade" : 6.0
+}, {
+  "plenary_id" : 6300,
+  "firstname" : "Ruža",
+  "lastname" : "TOMAŠIĆ",
+  "country" : "hr",
+  "political_group" : "ECR",
+  "national_political_group" : "Hrvatska konzervativna stranka",
+  "grade" : 2.2222222222222223
+}, {
+  "plenary_id" : 6310,
+  "firstname" : "Martina",
+  "lastname" : "MICHELS",
+  "country" : "de",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "DIE LINKE.",
+  "grade" : 19.0
+}, {
+  "plenary_id" : 6318,
+  "firstname" : "Balázs",
+  "lastname" : "HIDVÉGHI",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.0
+}, {
+  "plenary_id" : 6322,
+  "firstname" : "Costas",
+  "lastname" : "MAVRIDES",
+  "country" : "cy",
+  "political_group" : "S&D",
+  "national_political_group" : "Democratic Party",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6323,
+  "firstname" : "Demetris",
+  "lastname" : "PAPADAKIS",
+  "country" : "cy",
+  "political_group" : "S&D",
+  "national_political_group" : "Movement for Social Democracy EDEK",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 6324,
+  "firstname" : "Pascal",
+  "lastname" : "DURAND",
+  "country" : "fr",
+  "political_group" : "S&D",
+  "national_political_group" : "Liste Renaissance",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 6327,
+  "firstname" : "Andrus",
+  "lastname" : "ANSIP",
+  "country" : "ee",
+  "political_group" : "Renew",
+  "national_political_group" : "Eesti Reformierakond",
+  "grade" : 10.76923076923077
+}, {
+  "plenary_id" : 6331,
+  "firstname" : "Yana",
+  "lastname" : "TOOM",
+  "country" : "ee",
+  "political_group" : "Renew",
+  "national_political_group" : "Eesti Keskerakond",
+  "grade" : 6.923076923076923
+}, {
+  "plenary_id" : 6332,
+  "firstname" : "Luděk",
+  "lastname" : "NIEDERMAYER",
+  "country" : "cz",
+  "political_group" : "EPP",
+  "national_political_group" : "TOP 09 a Starostové",
+  "grade" : 10.76923076923077
+}, {
+  "plenary_id" : 6335,
+  "firstname" : "Stanislav",
+  "lastname" : "POLČÁK",
+  "country" : "cz",
+  "political_group" : "EPP",
+  "national_political_group" : "Starostové a nezávisli",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6336,
+  "firstname" : "István",
+  "lastname" : "UJHELYI",
+  "country" : "hu",
+  "political_group" : "S&D",
+  "national_political_group" : "Esély Közösség",
+  "grade" : 13.0
+}, {
+  "plenary_id" : 6339,
+  "firstname" : "Dita",
+  "lastname" : "CHARANZOVÁ",
+  "country" : "cz",
+  "political_group" : "Renew",
+  "national_political_group" : "ANO 2011",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6340,
+  "firstname" : "Martina",
+  "lastname" : "DLABAJOVÁ",
+  "country" : "cz",
+  "political_group" : "Renew",
+  "national_political_group" : "ANO 2011",
+  "grade" : 3.3333333333333335
+}, {
+  "plenary_id" : 6341,
+  "firstname" : "Michaela",
+  "lastname" : "ŠOJDROVÁ",
+  "country" : "cz",
+  "political_group" : "EPP",
+  "national_political_group" : "Křesťanská a demokratická unie - Československá strana lidová",
+  "grade" : 7.2
+}, {
+  "plenary_id" : 6343,
+  "firstname" : "Andrea",
+  "lastname" : "BOCSKOR",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6344,
+  "firstname" : "Tomáš",
+  "lastname" : "ZDECHOVSKÝ",
+  "country" : "cz",
+  "political_group" : "EPP",
+  "national_political_group" : "Křesťanská a demokratická unie - Československá strana lidová",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6345,
+  "firstname" : "Andor",
+  "lastname" : "DELI",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6346,
+  "firstname" : "György",
+  "lastname" : "HÖLVÉNYI",
+  "country" : "hu",
+  "political_group" : "EPP",
+  "national_political_group" : "Kereszténydemokrata Néppárt",
+  "grade" : 2.4
+}, {
+  "plenary_id" : 6351,
+  "firstname" : "Csaba",
+  "lastname" : "MOLNÁR",
+  "country" : "hu",
+  "political_group" : "S&D",
+  "national_political_group" : "Demokratikus Koalíció",
+  "grade" : 14.736842105263158
+}, {
+  "plenary_id" : 6354,
+  "firstname" : "Emmanuel",
+  "lastname" : "MAUREL",
+  "country" : "fr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Gauche républicaine et socialiste",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 6356,
+  "firstname" : "Henna",
+  "lastname" : "VIRKKUNEN",
+  "country" : "fi",
+  "political_group" : "EPP",
+  "national_political_group" : "Kansallinen Kokoomus",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6366,
+  "firstname" : "Cláudia",
+  "lastname" : "MONTEIRO DE AGUIAR",
+  "country" : "pt",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6367,
+  "firstname" : "Miapetra",
+  "lastname" : "KUMPULA-NATRI",
+  "country" : "fi",
+  "political_group" : "S&D",
+  "national_political_group" : "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
+  "grade" : 11.818181818181818
+}, {
+  "plenary_id" : 6368,
+  "firstname" : "Nadine",
+  "lastname" : "MORANO",
+  "country" : "fr",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6370,
+  "firstname" : "Anne",
+  "lastname" : "SANDER",
+  "country" : "fr",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "grade" : 5.0
+}, {
+  "plenary_id" : 6372,
+  "firstname" : "Gilles",
+  "lastname" : "LEBRETON",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6373,
+  "firstname" : "Carlos",
+  "lastname" : "ZORRINHO",
+  "country" : "pt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6381,
+  "firstname" : "Pedro",
+  "lastname" : "SILVA PEREIRA",
+  "country" : "pt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 6394,
+  "firstname" : "Nicolas",
+  "lastname" : "BAY",
+  "country" : "fr",
+  "political_group" : "NI",
+  "national_political_group" : "Reconquête!",
+  "grade" : 2.0
+}, {
+  "plenary_id" : 6399,
+  "firstname" : "Joëlle",
+  "lastname" : "MÉLIN",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 2.0
+}, {
+  "plenary_id" : 6400,
+  "firstname" : "Petras",
+  "lastname" : "AUŠTREVIČIUS",
+  "country" : "lt",
+  "political_group" : "Renew",
+  "national_political_group" : "Lietuvos Respublikos liberalų sąjūdis",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6404,
+  "firstname" : "Jean-François",
+  "lastname" : "JALKH",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.6666666666666667
+}, {
+  "plenary_id" : 6405,
+  "firstname" : "Dominique",
+  "lastname" : "BILDE",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6411,
+  "firstname" : "Tiziana",
+  "lastname" : "BEGHIN",
+  "country" : "it",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "grade" : 17.692307692307693
+}, {
+  "plenary_id" : 6413,
+  "firstname" : "Eleonora",
+  "lastname" : "EVI",
+  "country" : "it",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europa Verde",
+  "grade" : 18.75
+}, {
+  "plenary_id" : 6414,
+  "firstname" : "Marco",
+  "lastname" : "ZANNI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6415,
+  "firstname" : "Alfred",
+  "lastname" : "SANT",
+  "country" : "mt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partit Laburista",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6418,
+  "firstname" : "Dan",
+  "lastname" : "NICA",
+  "country" : "ro",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "grade" : 8.0
+}, {
+  "plenary_id" : 6419,
+  "firstname" : "Maria",
+  "lastname" : "GRAPINI",
+  "country" : "ro",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Umanist Social Liberal",
+  "grade" : 7.2
+}, {
+  "plenary_id" : 6433,
+  "firstname" : "Alessandra",
+  "lastname" : "MORETTI",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6436,
+  "firstname" : "Siegfried",
+  "lastname" : "MUREŞAN",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6440,
+  "firstname" : "David",
+  "lastname" : "McALLISTER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6441,
+  "firstname" : "Jens",
+  "lastname" : "GIESEKE",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6442,
+  "firstname" : "Norbert",
+  "lastname" : "LINS",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6443,
+  "firstname" : "Sven",
+  "lastname" : "SCHULZE",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 6.0
+}, {
+  "plenary_id" : 6446,
+  "firstname" : "Fabio Massimo",
+  "lastname" : "CASTALDO",
+  "country" : "it",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "grade" : 17.0
+}, {
+  "plenary_id" : 6449,
+  "firstname" : "Simona",
+  "lastname" : "BONAFÈ",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 12.0
+}, {
+  "plenary_id" : 6458,
+  "firstname" : "Nicola",
+  "lastname" : "DANTI",
+  "country" : "it",
+  "political_group" : "Renew",
+  "national_political_group" : "Azione - Italia Viva",
+  "grade" : 10.76923076923077
+}, {
+  "plenary_id" : 6459,
+  "firstname" : "Dietmar",
+  "lastname" : "KÖSTER",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 12.941176470588236
+}, {
+  "plenary_id" : 6465,
+  "firstname" : "Fulvio",
+  "lastname" : "MARTUSCIELLO",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 5.454545454545454
+}, {
+  "plenary_id" : 6468,
+  "firstname" : "Isabella",
+  "lastname" : "ADINOLFI",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 6.923076923076923
+}, {
+  "plenary_id" : 6470,
+  "firstname" : "Laura",
+  "lastname" : "FERRARA",
+  "country" : "it",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "grade" : 17.692307692307693
+}, {
+  "plenary_id" : 6471,
+  "firstname" : "Martin",
+  "lastname" : "SONNEBORN",
+  "country" : "de",
+  "political_group" : "NI",
+  "national_political_group" : "Die PARTEI",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6472,
+  "firstname" : "Rosa",
+  "lastname" : "D'AMATO",
+  "country" : "it",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 6473,
+  "firstname" : "Maria",
+  "lastname" : "NOICHL",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 16.923076923076923
+}, {
+  "plenary_id" : 6475,
+  "firstname" : "Joachim",
+  "lastname" : "SCHUSTER",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6482,
+  "firstname" : "Piernicola",
+  "lastname" : "PEDICINI",
+  "country" : "it",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 6483,
+  "firstname" : "Eva",
+  "lastname" : "MAYDELL",
+  "country" : "bg",
+  "political_group" : "EPP",
+  "national_political_group" : "Citizens for European Development of Bulgaria",
+  "grade" : 5.333333333333333
+}, {
+  "plenary_id" : 6484,
+  "firstname" : "Pina",
+  "lastname" : "PICIERNO",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 6488,
+  "firstname" : "Emil",
+  "lastname" : "RADEV",
+  "country" : "bg",
+  "political_group" : "EPP",
+  "national_political_group" : "Citizens for European Development of Bulgaria",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6490,
+  "firstname" : "Sergei",
+  "lastname" : "STANISHEV",
+  "country" : "bg",
+  "political_group" : "S&D",
+  "national_political_group" : "Bulgarian Socialist Party",
+  "grade" : 17.5
+}, {
+  "plenary_id" : 6494,
+  "firstname" : "Ignazio",
+  "lastname" : "CORRAO",
+  "country" : "it",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "grade" : 19.09090909090909
+}, {
+  "plenary_id" : 6499,
+  "firstname" : "Caterina",
+  "lastname" : "CHINNICI",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 11.0
+}, {
+  "plenary_id" : 6500,
+  "firstname" : "Ulrike",
+  "lastname" : "MÜLLER",
+  "country" : "de",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Wähler",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 6504,
+  "firstname" : "Ilhan",
+  "lastname" : "KYUCHYUK",
+  "country" : "bg",
+  "political_group" : "Renew",
+  "national_political_group" : "Movement for Rights and Freedoms",
+  "grade" : 7.6923076923076925
+}, {
+  "plenary_id" : 6505,
+  "firstname" : "Brando",
+  "lastname" : "BENIFEI",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 6510,
+  "firstname" : "Morten",
+  "lastname" : "PETERSEN",
+  "country" : "dk",
+  "political_group" : "Renew",
+  "national_political_group" : "Det Radikale Venstre",
+  "grade" : 11.0
+}, {
+  "plenary_id" : 6511,
+  "firstname" : "Angel",
+  "lastname" : "DZHAMBAZKI",
+  "country" : "bg",
+  "political_group" : "ECR",
+  "national_political_group" : "VMRO",
+  "grade" : 0.9090909090909091
+}, {
+  "plenary_id" : 6513,
+  "firstname" : "Anders",
+  "lastname" : "VISTISEN",
+  "country" : "dk",
+  "political_group" : "ID",
+  "national_political_group" : "Dansk Folkeparti",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 6515,
+  "firstname" : "Jadwiga",
+  "lastname" : "WIŚNIEWSKA",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.8
+}, {
+  "plenary_id" : 6522,
+  "firstname" : "Kosma",
+  "lastname" : "ZŁOTOWSKI",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6525,
+  "firstname" : "Karol",
+  "lastname" : "KARSKI",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.8
+}, {
+  "plenary_id" : 6529,
+  "firstname" : "Terry",
+  "lastname" : "REINTKE",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6530,
+  "firstname" : "Zdzisław",
+  "lastname" : "KRASNODĘBSKI",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.8
+}, {
+  "plenary_id" : 6534,
+  "firstname" : "Krzysztof",
+  "lastname" : "HETMAN",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Polskie Stronnictwo Ludowe",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6547,
+  "firstname" : "Ivan",
+  "lastname" : "ŠTEFANEC",
+  "country" : "sk",
+  "political_group" : "EPP",
+  "national_political_group" : "Kresťanskodemokratické hnutie",
+  "grade" : 7.6923076923076925
+}, {
+  "plenary_id" : 6551,
+  "firstname" : "Monika",
+  "lastname" : "VANA",
+  "country" : "at",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Die Grünen - Die Grüne Alternative",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6553,
+  "firstname" : "Maria",
+  "lastname" : "ARENA",
+  "country" : "be",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti Socialiste",
+  "grade" : 19.2
+}, {
+  "plenary_id" : 6591,
+  "firstname" : "Ernest",
+  "lastname" : "URTASUN",
+  "country" : "es",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Catalunya en Comú",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 6592,
+  "firstname" : "Jeroen",
+  "lastname" : "LENAERS",
+  "country" : "nl",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen Democratisch Appèl",
+  "grade" : 3.0
+}, {
+  "plenary_id" : 6593,
+  "firstname" : "Gerolf",
+  "lastname" : "ANNEMANS",
+  "country" : "be",
+  "political_group" : "ID",
+  "national_political_group" : "Vlaams Belang",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 6594,
+  "firstname" : "Pascal",
+  "lastname" : "ARIMONT",
+  "country" : "be",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Soziale Partei",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6597,
+  "firstname" : "Luke Ming",
+  "lastname" : "FLANAGAN",
+  "country" : "ie",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Independent",
+  "grade" : 19.09090909090909
+}, {
+  "plenary_id" : 6600,
+  "firstname" : "Deirdre",
+  "lastname" : "CLUNE",
+  "country" : "ie",
+  "political_group" : "EPP",
+  "national_political_group" : "Fine Gael Party",
+  "grade" : 8.0
+}, {
+  "plenary_id" : 6601,
+  "firstname" : "Fredrick",
+  "lastname" : "FEDERLEY",
+  "country" : "se",
+  "political_group" : "Renew",
+  "national_political_group" : "Centerpartiet",
+  "grade" : 6.666666666666667
+}, {
+  "plenary_id" : 6603,
+  "firstname" : "Jytte",
+  "lastname" : "GUTELAND",
+  "country" : "se",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "grade" : 8.0
+}, {
+  "plenary_id" : 6604,
+  "firstname" : "Malin",
+  "lastname" : "BJÖRK",
+  "country" : "se",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Vänsterpartiet",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6608,
+  "firstname" : "Peter",
+  "lastname" : "LUNDGREN",
+  "country" : "se",
+  "political_group" : "ECR",
+  "national_political_group" : "Sverigedemokraterna",
+  "grade" : 3.8461538461538463
+}, {
+  "plenary_id" : 6610,
+  "firstname" : "Harald",
+  "lastname" : "VILIMSKY",
+  "country" : "at",
+  "political_group" : "ID",
+  "national_political_group" : "Freiheitliche Partei Österreichs",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6613,
+  "firstname" : "Franc",
+  "lastname" : "BOGOVIČ",
+  "country" : "si",
+  "political_group" : "EPP",
+  "national_political_group" : "Slovenska ljudska stranka",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6614,
+  "firstname" : "Javier",
+  "lastname" : "NART",
+  "country" : "es",
+  "political_group" : "Renew",
+  "national_political_group" : "Independiente",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 6617,
+  "firstname" : "Daniel",
+  "lastname" : "BUDA",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6622,
+  "firstname" : "Jan",
+  "lastname" : "HUITEMA",
+  "country" : "nl",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "grade" : 3.8461538461538463
+}, {
+  "plenary_id" : 6623,
+  "firstname" : "Paul",
+  "lastname" : "TANG",
+  "country" : "nl",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 6624,
+  "firstname" : "Agnes",
+  "lastname" : "JONGERIUS",
+  "country" : "nl",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 6625,
+  "firstname" : "Kati",
+  "lastname" : "PIRI",
+  "country" : "nl",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "grade" : 16.666666666666668
+}, {
+  "plenary_id" : 6627,
+  "firstname" : "Georg",
+  "lastname" : "MAYER",
+  "country" : "at",
+  "political_group" : "ID",
+  "national_political_group" : "Freiheitliche Partei Österreichs",
+  "grade" : 1.6
+}, {
+  "plenary_id" : 6628,
+  "firstname" : "Anja",
+  "lastname" : "HAZEKAMP",
+  "country" : "nl",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Partij voor de Dieren",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6630,
+  "firstname" : "Marcel",
+  "lastname" : "de GRAAFF",
+  "country" : "nl",
+  "political_group" : "NI",
+  "national_political_group" : "Forum voor Democratie",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6632,
+  "firstname" : "Esteban",
+  "lastname" : "GONZÁLEZ PONS",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 2.857142857142857
+}, {
+  "plenary_id" : 6636,
+  "firstname" : "Annie",
+  "lastname" : "SCHREIJER-PIERIK",
+  "country" : "nl",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen Democratisch Appèl",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 6644,
+  "firstname" : "Maite",
+  "lastname" : "PAGAZAURTUNDÚA",
+  "country" : "es",
+  "political_group" : "Renew",
+  "national_political_group" : "Delegación Ciudadanos Europeos",
+  "grade" : 12.8
+}, {
+  "plenary_id" : 6648,
+  "firstname" : "Javi",
+  "lastname" : "LÓPEZ",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partit dels Socialistes de Catalunya",
+  "grade" : 14.4
+}, {
+  "plenary_id" : 6649,
+  "firstname" : "Inma",
+  "lastname" : "RODRÍGUEZ-PIÑERO",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 6651,
+  "firstname" : "Clara",
+  "lastname" : "AGUILERA",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 12.0
+}, {
+  "plenary_id" : 6652,
+  "firstname" : "Jonás",
+  "lastname" : "FERNÁNDEZ",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.6
+}, {
+  "plenary_id" : 6662,
+  "firstname" : "Georgios",
+  "lastname" : "KYRTSOS",
+  "country" : "gr",
+  "political_group" : "Renew",
+  "national_political_group" : "Independent",
+  "grade" : 11.538461538461538
+}, {
+  "plenary_id" : 6663,
+  "firstname" : "Maria",
+  "lastname" : "SPYRAKI",
+  "country" : "gr",
+  "political_group" : "EPP",
+  "national_political_group" : "Nea Demokratia",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6664,
+  "firstname" : "Elissavet",
+  "lastname" : "VOZEMBERG-VRIONIDI",
+  "country" : "gr",
+  "political_group" : "EPP",
+  "national_political_group" : "Nea Demokratia",
+  "grade" : 5.0
+}, {
+  "plenary_id" : 6665,
+  "firstname" : "Theodoros",
+  "lastname" : "ZAGORAKIS",
+  "country" : "gr",
+  "political_group" : "EPP",
+  "national_political_group" : "Nea Demokratia",
+  "grade" : 4.285714285714286
+}, {
+  "plenary_id" : 6666,
+  "firstname" : "Manolis",
+  "lastname" : "KEFALOGIANNIS",
+  "country" : "gr",
+  "political_group" : "EPP",
+  "national_political_group" : "Nea Demokratia",
+  "grade" : 5.6
+}, {
+  "plenary_id" : 6676,
+  "firstname" : "Kostas",
+  "lastname" : "PAPADAKIS",
+  "country" : "gr",
+  "political_group" : "NI",
+  "national_political_group" : "Communist Party of Greece",
+  "grade" : 8.0
+}, {
+  "plenary_id" : 6681,
+  "firstname" : "Romana",
+  "lastname" : "TOMC",
+  "country" : "si",
+  "political_group" : "EPP",
+  "national_political_group" : "Slovenska demokratska stranka",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6683,
+  "firstname" : "Johan",
+  "lastname" : "VAN OVERTVELDT",
+  "country" : "be",
+  "political_group" : "ECR",
+  "national_political_group" : "Nieuw-Vlaamse Alliantie",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 6686,
+  "firstname" : "Eva",
+  "lastname" : "KAILI",
+  "country" : "gr",
+  "political_group" : "NI",
+  "national_political_group" : "Independent",
+  "grade" : 11.0
+}, {
+  "plenary_id" : 6687,
+  "firstname" : "Nikos",
+  "lastname" : "ANDROULAKIS",
+  "country" : "gr",
+  "political_group" : "S&D",
+  "national_political_group" : "PASOK-KINAL",
+  "grade" : 15.0
+}, {
+  "plenary_id" : 6690,
+  "firstname" : "Iskra",
+  "lastname" : "MIHAYLOVA",
+  "country" : "bg",
+  "political_group" : "Renew",
+  "national_political_group" : "Movement for Rights and Freedoms",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6691,
+  "firstname" : "Victor",
+  "lastname" : "NEGRESCU",
+  "country" : "ro",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "grade" : 10.76923076923077
+}, {
+  "plenary_id" : 6694,
+  "firstname" : "Bronis",
+  "lastname" : "ROPĖ",
+  "country" : "lt",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Lietuvos valstiečių ir žaliųjų sąjunga",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 6695,
+  "firstname" : "Marco",
+  "lastname" : "ZULLO",
+  "country" : "it",
+  "political_group" : "Renew",
+  "national_political_group" : "Independent",
+  "grade" : 17.272727272727273
+}, {
+  "plenary_id" : 6698,
+  "firstname" : "Massimiliano",
+  "lastname" : "SALINI",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6700,
+  "firstname" : "Jiří",
+  "lastname" : "POSPÍŠIL",
+  "country" : "cz",
+  "political_group" : "EPP",
+  "national_political_group" : "TOP 09 a Starostové",
+  "grade" : 11.0
+}, {
+  "plenary_id" : 6705,
+  "firstname" : "Urmas",
+  "lastname" : "PAET",
+  "country" : "ee",
+  "political_group" : "Renew",
+  "national_political_group" : "Eesti Reformierakond",
+  "grade" : 8.0
+}, {
+  "plenary_id" : 6706,
+  "firstname" : "Tom",
+  "lastname" : "VANDENKENDELAERE",
+  "country" : "be",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen-Democratisch & Vlaams",
+  "grade" : 4.3478260869565215
+}, {
+  "plenary_id" : 6709,
+  "firstname" : "Andrey",
+  "lastname" : "NOVAKOV",
+  "country" : "bg",
+  "political_group" : "EPP",
+  "national_political_group" : "Citizens for European Development of Bulgaria",
+  "grade" : 5.6
+}, {
+  "plenary_id" : 6710,
+  "firstname" : "Hilde",
+  "lastname" : "VAUTMANS",
+  "country" : "be",
+  "political_group" : "Renew",
+  "national_political_group" : "Open Vlaamse Liberalen en Democraten",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6713,
+  "firstname" : "Stelios",
+  "lastname" : "KOULOGLOU",
+  "country" : "gr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Coalition of the Radical Left",
+  "grade" : 18.26086956521739
+}, {
+  "plenary_id" : 6715,
+  "firstname" : "Miguel",
+  "lastname" : "URBÁN CRESPO",
+  "country" : "es",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "ANTICAPITALISTAS",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6718,
+  "firstname" : "Pirkko",
+  "lastname" : "RUOHONEN-LERNER",
+  "country" : "fi",
+  "political_group" : "ECR",
+  "national_political_group" : "Perussuomalaiset",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 6727,
+  "firstname" : "João",
+  "lastname" : "PIMENTA LOPES",
+  "country" : "pt",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Partido Comunista Português",
+  "grade" : 17.647058823529413
+}, {
+  "plenary_id" : 6730,
+  "firstname" : "Jakop G.",
+  "lastname" : "DALUNDE",
+  "country" : "se",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Miljöpartiet de gröna",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 6731,
+  "firstname" : "Angelo",
+  "lastname" : "CIOCCA",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 6734,
+  "firstname" : "Željana",
+  "lastname" : "ZOVKO",
+  "country" : "hr",
+  "political_group" : "EPP",
+  "national_political_group" : "Hrvatska demokratska zajednica",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6735,
+  "firstname" : "Tiemo",
+  "lastname" : "WÖLKEN",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6738,
+  "firstname" : "Jordi",
+  "lastname" : "SOLÉ",
+  "country" : "es",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Esquerra Republicana de Catalunya",
+  "grade" : 17.692307692307693
+}, {
+  "plenary_id" : 6750,
+  "firstname" : "Dennis",
+  "lastname" : "RADTKE",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6751,
+  "firstname" : "France",
+  "lastname" : "JAMET",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 6755,
+  "firstname" : "Asim",
+  "lastname" : "ADEMOV",
+  "country" : "bg",
+  "political_group" : "EPP",
+  "national_political_group" : "Citizens for European Development of Bulgaria",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6757,
+  "firstname" : "Thomas",
+  "lastname" : "WAITZ",
+  "country" : "at",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Die Grünen - Die Grüne Alternative",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 6758,
+  "firstname" : "Martin",
+  "lastname" : "SCHIRDEWAN",
+  "country" : "de",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "DIE LINKE.",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6759,
+  "firstname" : "Jörg",
+  "lastname" : "MEUTHEN",
+  "country" : "de",
+  "political_group" : "NI",
+  "national_political_group" : "Deutsche Zentrumspartei",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 6760,
+  "firstname" : "Caroline",
+  "lastname" : "NAGTEGAAL",
+  "country" : "nl",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "grade" : 4.545454545454546
+}, {
+  "plenary_id" : 6761,
+  "firstname" : "Lukas",
+  "lastname" : "MANDL",
+  "country" : "at",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "grade" : 4.8
+}, {
+  "plenary_id" : 6762,
+  "firstname" : "Geoffroy",
+  "lastname" : "DIDIER",
+  "country" : "fr",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6766,
+  "firstname" : "Elsi",
+  "lastname" : "KATAINEN",
+  "country" : "fi",
+  "political_group" : "Renew",
+  "national_political_group" : "Suomen Keskusta",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 6770,
+  "firstname" : "Giuseppe",
+  "lastname" : "FERRANDINO",
+  "country" : "it",
+  "political_group" : "Renew",
+  "national_political_group" : "Azione - Italia Viva",
+  "grade" : 11.538461538461538
+}, {
+  "plenary_id" : 6771,
+  "firstname" : "Danilo Oscar",
+  "lastname" : "LANCINI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.6
+}, {
+  "plenary_id" : 6775,
+  "firstname" : "Romeo",
+  "lastname" : "FRANZ",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6776,
+  "firstname" : "Tilly",
+  "lastname" : "METZ",
+  "country" : "lu",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Déi Gréng - Les Verts",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6777,
+  "firstname" : "Christophe",
+  "lastname" : "HANSEN",
+  "country" : "lu",
+  "political_group" : "EPP",
+  "national_political_group" : "Parti chrétien social luxembourgeois",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6790,
+  "firstname" : "Sara",
+  "lastname" : "SKYTTEDAL",
+  "country" : "se",
+  "political_group" : "EPP",
+  "national_political_group" : "Kristdemokraterna",
+  "grade" : 4.0
+}, {
+  "plenary_id" : 6791,
+  "firstname" : "Heléne",
+  "lastname" : "FRITZON",
+  "country" : "se",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "grade" : 10.76923076923077
+}, {
+  "plenary_id" : 6792,
+  "firstname" : "Evin",
+  "lastname" : "INCIR",
+  "country" : "se",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "grade" : 10.76923076923077
+}, {
+  "plenary_id" : 6793,
+  "firstname" : "David",
+  "lastname" : "LEGA",
+  "country" : "se",
+  "political_group" : "EPP",
+  "national_political_group" : "Kristdemokraterna",
+  "grade" : 5.714285714285714
+}, {
+  "plenary_id" : 6794,
+  "firstname" : "Josianne",
+  "lastname" : "CUTAJAR",
+  "country" : "mt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partit Laburista",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6795,
+  "firstname" : "Alice",
+  "lastname" : "KUHNKE",
+  "country" : "se",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Miljöpartiet de gröna",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 6796,
+  "firstname" : "Erik",
+  "lastname" : "BERGKVIST",
+  "country" : "se",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "grade" : 11.0
+}, {
+  "plenary_id" : 6797,
+  "firstname" : "Pär",
+  "lastname" : "HOLMGREN",
+  "country" : "se",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Miljöpartiet de gröna",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 6798,
+  "firstname" : "Jessica",
+  "lastname" : "STEGRUD",
+  "country" : "se",
+  "political_group" : "ECR",
+  "national_political_group" : "Sverigedemokraterna",
+  "grade" : 2.5
+}, {
+  "plenary_id" : 6799,
+  "firstname" : "Abir",
+  "lastname" : "AL-SAHLANI",
+  "country" : "se",
+  "political_group" : "Renew",
+  "national_political_group" : "Centerpartiet",
+  "grade" : 9.23076923076923
+}, {
+  "plenary_id" : 6800,
+  "firstname" : "Karin",
+  "lastname" : "KARLSBRO",
+  "country" : "se",
+  "political_group" : "Renew",
+  "national_political_group" : "Liberalerna",
+  "grade" : 11.538461538461538
+}, {
+  "plenary_id" : 6801,
+  "firstname" : "Tomas",
+  "lastname" : "TOBÉ",
+  "country" : "se",
+  "political_group" : "EPP",
+  "national_political_group" : "Moderaterna",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6802,
+  "firstname" : "Alex",
+  "lastname" : "AGIUS SALIBA",
+  "country" : "mt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partit Laburista",
+  "grade" : 13.6
+}, {
+  "plenary_id" : 6803,
+  "firstname" : "Jessica",
+  "lastname" : "POLFJÄRD",
+  "country" : "se",
+  "political_group" : "EPP",
+  "national_political_group" : "Moderaterna",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6804,
+  "firstname" : "Jörgen",
+  "lastname" : "WARBORN",
+  "country" : "se",
+  "political_group" : "EPP",
+  "national_political_group" : "Moderaterna",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6805,
+  "firstname" : "Arba",
+  "lastname" : "KOKALARI",
+  "country" : "se",
+  "political_group" : "EPP",
+  "national_political_group" : "Moderaterna",
+  "grade" : 5.454545454545454
+}, {
+  "plenary_id" : 6806,
+  "firstname" : "Johan",
+  "lastname" : "DANIELSSON",
+  "country" : "se",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "grade" : 12.0
+}, {
+  "plenary_id" : 6807,
+  "firstname" : "Hildegard",
+  "lastname" : "BENTELE",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6808,
+  "firstname" : "Charlie",
+  "lastname" : "WEIMERS",
+  "country" : "se",
+  "political_group" : "ECR",
+  "national_political_group" : "Sverigedemokraterna",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6809,
+  "firstname" : "Stefan",
+  "lastname" : "BERGER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6810,
+  "firstname" : "Lena",
+  "lastname" : "DÜPONT",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6811,
+  "firstname" : "Niclas",
+  "lastname" : "HERBST",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6812,
+  "firstname" : "Karlo",
+  "lastname" : "RESSLER",
+  "country" : "hr",
+  "political_group" : "EPP",
+  "national_political_group" : "Hrvatska demokratska zajednica",
+  "grade" : 4.0
+}, {
+  "plenary_id" : 6813,
+  "firstname" : "Loucas",
+  "lastname" : "FOURLAS",
+  "country" : "cy",
+  "political_group" : "EPP",
+  "national_political_group" : "Democratic Rally",
+  "grade" : 7.0
+}, {
+  "plenary_id" : 6814,
+  "firstname" : "Niyazi",
+  "lastname" : "KIZILYÜREK",
+  "country" : "cy",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Progressive Party of Working People - Left - New Forces",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 6815,
+  "firstname" : "Giorgos",
+  "lastname" : "GEORGIOU",
+  "country" : "cy",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Progressive Party of Working People - Left - New Forces",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 6816,
+  "firstname" : "Tomislav",
+  "lastname" : "SOKOL",
+  "country" : "hr",
+  "political_group" : "EPP",
+  "national_political_group" : "Hrvatska demokratska zajednica",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6817,
+  "firstname" : "Monica",
+  "lastname" : "SEMEDO",
+  "country" : "lu",
+  "political_group" : "Renew",
+  "national_political_group" : "Indépendent",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 6818,
+  "firstname" : "Valter",
+  "lastname" : "FLEGO",
+  "country" : "hr",
+  "political_group" : "Renew",
+  "national_political_group" : "Istarski demokratski sabor - Dieta democratica istriana",
+  "grade" : 10.76923076923077
+}, {
+  "plenary_id" : 6819,
+  "firstname" : "Kris",
+  "lastname" : "PEETERS",
+  "country" : "be",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen-Democratisch & Vlaams",
+  "grade" : 6.666666666666667
+}, {
+  "plenary_id" : 6820,
+  "firstname" : "Isabel",
+  "lastname" : "WISELER-LIMA",
+  "country" : "lu",
+  "political_group" : "EPP",
+  "national_political_group" : "Parti chrétien social luxembourgeois",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6821,
+  "firstname" : "Christine",
+  "lastname" : "SCHNEIDER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6822,
+  "firstname" : "Nico",
+  "lastname" : "SEMSROTT",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6823,
+  "firstname" : "Ralf",
+  "lastname" : "SEEKATZ",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6824,
+  "firstname" : "Sven",
+  "lastname" : "SIMON",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.217391304347826
+}, {
+  "plenary_id" : 6825,
+  "firstname" : "Marlene",
+  "lastname" : "MORTLER",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6827,
+  "firstname" : "Marion",
+  "lastname" : "WALSMANN",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6828,
+  "firstname" : "Engin",
+  "lastname" : "EROGLU",
+  "country" : "de",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Wähler",
+  "grade" : 4.0
+}, {
+  "plenary_id" : 6829,
+  "firstname" : "Patrick",
+  "lastname" : "BREYER",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Piratenpartei Deutschland",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6830,
+  "firstname" : "Jan-Christoph",
+  "lastname" : "OETJEN",
+  "country" : "de",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Demokratische Partei",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6831,
+  "firstname" : "Katarina",
+  "lastname" : "BARLEY",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6832,
+  "firstname" : "Martin",
+  "lastname" : "BUSCHMANN",
+  "country" : "de",
+  "political_group" : "NI",
+  "national_political_group" : "Independent",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6833,
+  "firstname" : "Gabriele",
+  "lastname" : "BISCHOFF",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 14.4
+}, {
+  "plenary_id" : 6834,
+  "firstname" : "Helmut",
+  "lastname" : "GEUKING",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Familien-Partei Deutschlands",
+  "grade" : 4.545454545454546
+}, {
+  "plenary_id" : 6835,
+  "firstname" : "Nicola",
+  "lastname" : "BEER",
+  "country" : "de",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Demokratische Partei",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6836,
+  "firstname" : "Mislav",
+  "lastname" : "KOLAKUŠIĆ",
+  "country" : "hr",
+  "political_group" : "NI",
+  "national_political_group" : "-",
+  "grade" : 2.608695652173913
+}, {
+  "plenary_id" : 6837,
+  "firstname" : "Damian",
+  "lastname" : "BOESELAGER",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Volt",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6838,
+  "firstname" : "Delara",
+  "lastname" : "BURKHARDT",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 16.153846153846153
+}, {
+  "plenary_id" : 6839,
+  "firstname" : "Predrag Fred",
+  "lastname" : "MATIĆ",
+  "country" : "hr",
+  "political_group" : "S&D",
+  "national_political_group" : "Socijaldemokratska partija Hrvatske",
+  "grade" : 15.0
+}, {
+  "plenary_id" : 6840,
+  "firstname" : "Andreas",
+  "lastname" : "GLUECK",
+  "country" : "de",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Demokratische Partei",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6841,
+  "firstname" : "Svenja",
+  "lastname" : "HAHN",
+  "country" : "de",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Demokratische Partei",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6842,
+  "firstname" : "Moritz",
+  "lastname" : "KÖRNER",
+  "country" : "de",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Demokratische Partei",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6843,
+  "firstname" : "Milan",
+  "lastname" : "BRGLEZ",
+  "country" : "si",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialni demokrati",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6844,
+  "firstname" : "Irena",
+  "lastname" : "JOVEVA",
+  "country" : "si",
+  "political_group" : "Renew",
+  "national_political_group" : "Gibanje Svoboda",
+  "grade" : 14.545454545454545
+}, {
+  "plenary_id" : 6845,
+  "firstname" : "Rasmus",
+  "lastname" : "ANDRESEN",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6846,
+  "firstname" : "Michael",
+  "lastname" : "BLOSS",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6847,
+  "firstname" : "Anna",
+  "lastname" : "CAVAZZINI",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6848,
+  "firstname" : "Viola",
+  "lastname" : "VON CRAMON-TAUBADEL",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6849,
+  "firstname" : "Klemen",
+  "lastname" : "GROŠELJ",
+  "country" : "si",
+  "political_group" : "Renew",
+  "national_political_group" : "Gibanje Svoboda",
+  "grade" : 10.76923076923077
+}, {
+  "plenary_id" : 6850,
+  "firstname" : "Anna",
+  "lastname" : "DEPARNAY-GRUNENBERG",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6851,
+  "firstname" : "Daniel",
+  "lastname" : "FREUND",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6852,
+  "firstname" : "Cindy",
+  "lastname" : "FRANSSEN",
+  "country" : "be",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen-Democratisch & Vlaams",
+  "grade" : 4.8
+}, {
+  "plenary_id" : 6853,
+  "firstname" : "Alexandra",
+  "lastname" : "GEESE",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6854,
+  "firstname" : "Henrike",
+  "lastname" : "HAHN",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6855,
+  "firstname" : "Benoît",
+  "lastname" : "LUTGEN",
+  "country" : "be",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Engagés",
+  "grade" : 9.6
+}, {
+  "plenary_id" : 6856,
+  "firstname" : "Pierrette",
+  "lastname" : "HERZBERGER-FOFANA",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6857,
+  "firstname" : "Sergey",
+  "lastname" : "LAGODINSKY",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6858,
+  "firstname" : "Katrin",
+  "lastname" : "LANGENSIEPEN",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6859,
+  "firstname" : "Erik",
+  "lastname" : "MARQUARDT",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6860,
+  "firstname" : "Olivier",
+  "lastname" : "CHASTEL",
+  "country" : "be",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Réformateur",
+  "grade" : 11.538461538461538
+}, {
+  "plenary_id" : 6861,
+  "firstname" : "Hannah",
+  "lastname" : "NEUMANN",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6862,
+  "firstname" : "Niklas",
+  "lastname" : "NIENASS",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6863,
+  "firstname" : "Jutta",
+  "lastname" : "PAULUS",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6864,
+  "firstname" : "Geert",
+  "lastname" : "BOURGEOIS",
+  "country" : "be",
+  "political_group" : "ECR",
+  "national_political_group" : "Nieuw-Vlaamse Alliantie",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6865,
+  "firstname" : "Özlem",
+  "lastname" : "DEMIREL",
+  "country" : "de",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "DIE LINKE.",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6866,
+  "firstname" : "Assita",
+  "lastname" : "KANKO",
+  "country" : "be",
+  "political_group" : "ECR",
+  "national_political_group" : "Nieuw-Vlaamse Alliantie",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6867,
+  "firstname" : "Saskia",
+  "lastname" : "BRICMONT",
+  "country" : "be",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6869,
+  "firstname" : "Filip",
+  "lastname" : "DE MAN",
+  "country" : "be",
+  "political_group" : "ID",
+  "national_political_group" : "Vlaams Belang",
+  "grade" : 2.4
+}, {
+  "plenary_id" : 6870,
+  "firstname" : "Christian",
+  "lastname" : "DOLESCHAL",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6872,
+  "firstname" : "Christine",
+  "lastname" : "ANDERSON",
+  "country" : "de",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6873,
+  "firstname" : "Marc",
+  "lastname" : "BOTENGA",
+  "country" : "be",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Parti du Travail de Belgique",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 6874,
+  "firstname" : "Gunnar",
+  "lastname" : "BECK",
+  "country" : "de",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "grade" : 1.6
+}, {
+  "plenary_id" : 6875,
+  "firstname" : "Lars Patrick",
+  "lastname" : "BERG",
+  "country" : "de",
+  "political_group" : "ECR",
+  "national_political_group" : "Bündnis Deutschland",
+  "grade" : 3.0
+}, {
+  "plenary_id" : 6876,
+  "firstname" : "Markus",
+  "lastname" : "BUCHHEIT",
+  "country" : "de",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6877,
+  "firstname" : "Nicolaus",
+  "lastname" : "FEST",
+  "country" : "de",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "grade" : 1.6
+}, {
+  "plenary_id" : 6878,
+  "firstname" : "Maximilian",
+  "lastname" : "KRAH",
+  "country" : "de",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "grade" : 2.3529411764705883
+}, {
+  "plenary_id" : 6879,
+  "firstname" : "Joachim",
+  "lastname" : "KUHS",
+  "country" : "de",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "grade" : 1.6
+}, {
+  "plenary_id" : 6880,
+  "firstname" : "Sylvia",
+  "lastname" : "LIMMER",
+  "country" : "de",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "grade" : 1.6
+}, {
+  "plenary_id" : 6881,
+  "firstname" : "Guido",
+  "lastname" : "REIL",
+  "country" : "de",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6882,
+  "firstname" : "Bernhard",
+  "lastname" : "ZIMNIOK",
+  "country" : "de",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6883,
+  "firstname" : "Magdalena",
+  "lastname" : "ADAMOWICZ",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Independent",
+  "grade" : 5.6
+}, {
+  "plenary_id" : 6884,
+  "firstname" : "Marina",
+  "lastname" : "KALJURAND",
+  "country" : "ee",
+  "political_group" : "S&D",
+  "national_political_group" : "Sotsiaaldemokraatlik Erakond",
+  "grade" : 13.0
+}, {
+  "plenary_id" : 6885,
+  "firstname" : "Bartosz",
+  "lastname" : "ARŁUKOWICZ",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6886,
+  "firstname" : "Jaak",
+  "lastname" : "MADISON",
+  "country" : "ee",
+  "political_group" : "ID",
+  "national_political_group" : "Eesti Konservatiivne Rahvaerakond",
+  "grade" : 0.8695652173913043
+}, {
+  "plenary_id" : 6887,
+  "firstname" : "Nathalie",
+  "lastname" : "LOISEAU",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "grade" : 12.307692307692308
+}, {
+  "plenary_id" : 6888,
+  "firstname" : "Marek Paweł",
+  "lastname" : "BALT",
+  "country" : "pl",
+  "political_group" : "S&D",
+  "national_political_group" : "Nowa Lewica",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6889,
+  "firstname" : "Marek",
+  "lastname" : "BELKA",
+  "country" : "pl",
+  "political_group" : "S&D",
+  "national_political_group" : "Nowa Lewica",
+  "grade" : 17.142857142857142
+}, {
+  "plenary_id" : 6890,
+  "firstname" : "Sven",
+  "lastname" : "MIKSER",
+  "country" : "ee",
+  "political_group" : "S&D",
+  "national_political_group" : "Sotsiaaldemokraatlik Erakond",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6891,
+  "firstname" : "Robert",
+  "lastname" : "BIEDROŃ",
+  "country" : "pl",
+  "political_group" : "S&D",
+  "national_political_group" : "Nowa Lewica",
+  "grade" : 17.692307692307693
+}, {
+  "plenary_id" : 6892,
+  "firstname" : "Chrysoula",
+  "lastname" : "ZACHAROPOULOU",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "La République en marche",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 6893,
+  "firstname" : "Mounir",
+  "lastname" : "SATOURI",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6894,
+  "firstname" : "Marie",
+  "lastname" : "TOUSSAINT",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6895,
+  "firstname" : "Joachim Stanisław",
+  "lastname" : "BRUDZIŃSKI",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6896,
+  "firstname" : "Marie-Pierre",
+  "lastname" : "VEDRENNE",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "grade" : 12.307692307692308
+}, {
+  "plenary_id" : 6897,
+  "firstname" : "David",
+  "lastname" : "CORMAND",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6898,
+  "firstname" : "Jérémy",
+  "lastname" : "DECERLE",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste L'Europe Ensemble",
+  "grade" : 10.76923076923077
+}, {
+  "plenary_id" : 6899,
+  "firstname" : "Catherine",
+  "lastname" : "CHABAUD",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6900,
+  "firstname" : "Caroline",
+  "lastname" : "ROOSE",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6901,
+  "firstname" : "Włodzimierz",
+  "lastname" : "CIMOSZEWICZ",
+  "country" : "pl",
+  "political_group" : "S&D",
+  "national_political_group" : "Sojusz Lewicy Demokratycznej - Unia Pracy",
+  "grade" : 16.153846153846153
+}, {
+  "plenary_id" : 6902,
+  "firstname" : "Stéphane",
+  "lastname" : "SÉJOURNÉ",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "La République en marche",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 6903,
+  "firstname" : "Jarosław",
+  "lastname" : "DUDA",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6904,
+  "firstname" : "Salima",
+  "lastname" : "YENBOU",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Renaissance",
+  "grade" : 16.0
+}, {
+  "plenary_id" : 6905,
+  "firstname" : "Benoît",
+  "lastname" : "BITEAU",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6906,
+  "firstname" : "Tomasz",
+  "lastname" : "FRANKOWSKI",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 4.285714285714286
+}, {
+  "plenary_id" : 6907,
+  "firstname" : "Andrzej",
+  "lastname" : "HALICKI",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6908,
+  "firstname" : "Pernille",
+  "lastname" : "WEISS",
+  "country" : "dk",
+  "political_group" : "EPP",
+  "national_political_group" : "Det Konservative Folkeparti",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6909,
+  "firstname" : "Patryk",
+  "lastname" : "JAKI",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Solidarna Polska Zbigniewa Ziobro",
+  "grade" : 0.8333333333333334
+}, {
+  "plenary_id" : 6910,
+  "firstname" : "Adam",
+  "lastname" : "JARUBAS",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Polskie Stronnictwo Ludowe",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6911,
+  "firstname" : "Krzysztof",
+  "lastname" : "JURGIEL",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6912,
+  "firstname" : "Beata",
+  "lastname" : "KEMPA",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Solidarna Polska Zbigniewa Ziobro",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6913,
+  "firstname" : "Izabela-Helena",
+  "lastname" : "KLOC",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.8333333333333334
+}, {
+  "plenary_id" : 6914,
+  "firstname" : "Manuel",
+  "lastname" : "BOMPARD",
+  "country" : "fr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6915,
+  "firstname" : "Radka",
+  "lastname" : "MAXOVÁ",
+  "country" : "cz",
+  "political_group" : "S&D",
+  "national_political_group" : "Independent",
+  "grade" : 11.538461538461538
+}, {
+  "plenary_id" : 6916,
+  "firstname" : "Łukasz",
+  "lastname" : "KOHUT",
+  "country" : "pl",
+  "political_group" : "S&D",
+  "national_political_group" : "Nowa Lewica",
+  "grade" : 16.923076923076923
+}, {
+  "plenary_id" : 6917,
+  "firstname" : "Ondřej",
+  "lastname" : "KOVAŘÍK",
+  "country" : "cz",
+  "political_group" : "Renew",
+  "national_political_group" : "ANO 2011",
+  "grade" : 2.0
+}, {
+  "plenary_id" : 6918,
+  "firstname" : "Ewa",
+  "lastname" : "KOPACZ",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 6919,
+  "firstname" : "Martin",
+  "lastname" : "HLAVÁČEK",
+  "country" : "cz",
+  "political_group" : "Renew",
+  "national_political_group" : "ANO 2011",
+  "grade" : 3.6363636363636362
+}, {
+  "plenary_id" : 6920,
+  "firstname" : "Anne-Sophie",
+  "lastname" : "PELLETIER",
+  "country" : "fr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6921,
+  "firstname" : "Ondřej",
+  "lastname" : "KNOTEK",
+  "country" : "cz",
+  "political_group" : "Renew",
+  "national_political_group" : "ANO 2011",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6922,
+  "firstname" : "Leila",
+  "lastname" : "CHAIBI",
+  "country" : "fr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6923,
+  "firstname" : "Joanna",
+  "lastname" : "KOPCIŃSKA",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6924,
+  "firstname" : "Gwendoline",
+  "lastname" : "DELBOS-CORFIELD",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 19.23076923076923
+}, {
+  "plenary_id" : 6925,
+  "firstname" : "Elżbieta",
+  "lastname" : "KRUK",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6926,
+  "firstname" : "Manon",
+  "lastname" : "AUBRY",
+  "country" : "fr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "grade" : 18.4
+}, {
+  "plenary_id" : 6927,
+  "firstname" : "François-Xavier",
+  "lastname" : "BELLAMY",
+  "country" : "fr",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 6928,
+  "firstname" : "Agnès",
+  "lastname" : "EVREN",
+  "country" : "fr",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "grade" : 7.6923076923076925
+}, {
+  "plenary_id" : 6929,
+  "firstname" : "Nathalie",
+  "lastname" : "COLIN-OESTERLÉ",
+  "country" : "fr",
+  "political_group" : "EPP",
+  "national_political_group" : "Les centristes",
+  "grade" : 6.0
+}, {
+  "plenary_id" : 6930,
+  "firstname" : "Alexandr",
+  "lastname" : "VONDRA",
+  "country" : "cz",
+  "political_group" : "ECR",
+  "national_political_group" : "Občanská demokratická strana",
+  "grade" : 3.8461538461538463
+}, {
+  "plenary_id" : 6931,
+  "firstname" : "Beata",
+  "lastname" : "MAZUREK",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 6932,
+  "firstname" : "Mikuláš",
+  "lastname" : "PEKSA",
+  "country" : "cz",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "PIRÁTI",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6933,
+  "firstname" : "Leszek",
+  "lastname" : "MILLER",
+  "country" : "pl",
+  "political_group" : "S&D",
+  "national_political_group" : "Independent",
+  "grade" : 16.923076923076923
+}, {
+  "plenary_id" : 6934,
+  "firstname" : "Andżelika Anna",
+  "lastname" : "MOŻDŻANOWSKA",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 2.2222222222222223
+}, {
+  "plenary_id" : 6935,
+  "firstname" : "Janina",
+  "lastname" : "OCHOJSKA",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Independent",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 6936,
+  "firstname" : "Bernard",
+  "lastname" : "GUETTA",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 6937,
+  "firstname" : "Elżbieta",
+  "lastname" : "RAFALSKA",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6938,
+  "firstname" : "Bogdan",
+  "lastname" : "RZOŃCA",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6939,
+  "firstname" : "Marcel",
+  "lastname" : "KOLAJA",
+  "country" : "cz",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "PIRÁTI",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6940,
+  "firstname" : "Irène",
+  "lastname" : "TOLLERET",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 6941,
+  "firstname" : "Radosław",
+  "lastname" : "SIKORSKI",
+  "country" : "pl",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "grade" : 6.363636363636363
+}, {
+  "plenary_id" : 6942,
+  "firstname" : "Markéta",
+  "lastname" : "GREGOROVÁ",
+  "country" : "cz",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "PIRÁTI",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6943,
+  "firstname" : "Sylwia",
+  "lastname" : "SPUREK",
+  "country" : "pl",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6944,
+  "firstname" : "Stéphane",
+  "lastname" : "BIJOUX",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "La République en marche",
+  "grade" : 12.307692307692308
+}, {
+  "plenary_id" : 6945,
+  "firstname" : "Veronika",
+  "lastname" : "VRECIONOVÁ",
+  "country" : "cz",
+  "political_group" : "ECR",
+  "national_political_group" : "Občanská demokratická strana",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 6946,
+  "firstname" : "Beata",
+  "lastname" : "SZYDŁO",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6947,
+  "firstname" : "Luis",
+  "lastname" : "GARICANO",
+  "country" : "es",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "grade" : 12.5
+}, {
+  "plenary_id" : 6948,
+  "firstname" : "Søren",
+  "lastname" : "GADE",
+  "country" : "dk",
+  "political_group" : "Renew",
+  "national_political_group" : "Venstre, Danmarks Liberale Parti",
+  "grade" : 5.0
+}, {
+  "plenary_id" : 6949,
+  "firstname" : "Ivan",
+  "lastname" : "DAVID",
+  "country" : "cz",
+  "political_group" : "ID",
+  "national_political_group" : "Svoboda a přímá demokracie",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 6950,
+  "firstname" : "Christophe",
+  "lastname" : "GRUDLER",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 6951,
+  "firstname" : "Asger",
+  "lastname" : "CHRISTENSEN",
+  "country" : "dk",
+  "political_group" : "Renew",
+  "national_political_group" : "Venstre, Danmarks Liberale Parti",
+  "grade" : 4.166666666666667
+}, {
+  "plenary_id" : 6952,
+  "firstname" : "Grzegorz",
+  "lastname" : "TOBISZOWSKI",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6953,
+  "firstname" : "Mauri",
+  "lastname" : "PEKKARINEN",
+  "country" : "fi",
+  "political_group" : "Renew",
+  "national_political_group" : "Suomen Keskusta",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 6954,
+  "firstname" : "Hynek",
+  "lastname" : "BLAŠKO",
+  "country" : "cz",
+  "political_group" : "ID",
+  "national_political_group" : "Svoboda a přímá demokracie",
+  "grade" : 4.0
+}, {
+  "plenary_id" : 6955,
+  "firstname" : "Niels",
+  "lastname" : "FUGLSANG",
+  "country" : "dk",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialdemokratiet",
+  "grade" : 13.0
+}, {
+  "plenary_id" : 6956,
+  "firstname" : "Witold Jan",
+  "lastname" : "WASZCZYKOWSKI",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6957,
+  "firstname" : "Karen",
+  "lastname" : "MELCHIOR",
+  "country" : "dk",
+  "political_group" : "Renew",
+  "national_political_group" : "Independent",
+  "grade" : 15.833333333333334
+}, {
+  "plenary_id" : 6959,
+  "firstname" : "Valérie",
+  "lastname" : "HAYER",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Renaissance",
+  "grade" : 12.307692307692308
+}, {
+  "plenary_id" : 6960,
+  "firstname" : "Peter",
+  "lastname" : "KOFOD",
+  "country" : "dk",
+  "political_group" : "ID",
+  "national_political_group" : "Dansk Folkeparti",
+  "grade" : 3.0
+}, {
+  "plenary_id" : 6961,
+  "firstname" : "Nikolaj",
+  "lastname" : "VILLUMSEN",
+  "country" : "dk",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Enhedslisten",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6962,
+  "firstname" : "Anna",
+  "lastname" : "ZALEWSKA",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6963,
+  "firstname" : "Kira Marie",
+  "lastname" : "PETER-HANSEN",
+  "country" : "dk",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Socialistisk Folkeparti",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6964,
+  "firstname" : "Damien",
+  "lastname" : "CARÊME",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 6965,
+  "firstname" : "Edina",
+  "lastname" : "TÓTH",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6966,
+  "firstname" : "Sylvie",
+  "lastname" : "BRUNET",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 6967,
+  "firstname" : "Gilles",
+  "lastname" : "BOYER",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Horizons",
+  "grade" : 12.307692307692308
+}, {
+  "plenary_id" : 6968,
+  "firstname" : "Silvia",
+  "lastname" : "SARDONE",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6969,
+  "firstname" : "Klára",
+  "lastname" : "DOBREV",
+  "country" : "hu",
+  "political_group" : "S&D",
+  "national_political_group" : "Demokratikus Koalíció",
+  "grade" : 15.0
+}, {
+  "plenary_id" : 6970,
+  "firstname" : "Isabella",
+  "lastname" : "TOVAGLIERI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 6971,
+  "firstname" : "Stéphanie",
+  "lastname" : "YON-COURTIN",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "grade" : 12.307692307692308
+}, {
+  "plenary_id" : 6972,
+  "firstname" : "Gianna",
+  "lastname" : "GANCIA",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.6666666666666667
+}, {
+  "plenary_id" : 6973,
+  "firstname" : "Jordi",
+  "lastname" : "CAÑAS",
+  "country" : "es",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 6974,
+  "firstname" : "Sándor",
+  "lastname" : "RÓNAI",
+  "country" : "hu",
+  "political_group" : "S&D",
+  "national_political_group" : "Demokratikus Koalíció",
+  "grade" : 15.0
+}, {
+  "plenary_id" : 6975,
+  "firstname" : "Pierre",
+  "lastname" : "KARLESKIND",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "La République en marche",
+  "grade" : 12.307692307692308
+}, {
+  "plenary_id" : 6976,
+  "firstname" : "Stefania",
+  "lastname" : "ZAMBELLI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6977,
+  "firstname" : "Attila",
+  "lastname" : "ARA-KOVÁCS",
+  "country" : "hu",
+  "political_group" : "S&D",
+  "national_political_group" : "Demokratikus Koalíció",
+  "grade" : 16.153846153846153
+}, {
+  "plenary_id" : 6978,
+  "firstname" : "Katalin",
+  "lastname" : "CSEH",
+  "country" : "hu",
+  "political_group" : "Renew",
+  "national_political_group" : "Momentum",
+  "grade" : 14.285714285714286
+}, {
+  "plenary_id" : 6979,
+  "firstname" : "Alessandro",
+  "lastname" : "PANZA",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6980,
+  "firstname" : "Laurence",
+  "lastname" : "FARRENG",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 6981,
+  "firstname" : "Marco",
+  "lastname" : "CAMPOMENOSI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 6982,
+  "firstname" : "Giuliano",
+  "lastname" : "PISAPIA",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Independent",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 6983,
+  "firstname" : "Irene",
+  "lastname" : "TINAGLI",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 6984,
+  "firstname" : "Pierfrancesco",
+  "lastname" : "MAJORINO",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 13.0
+}, {
+  "plenary_id" : 6985,
+  "firstname" : "Véronique",
+  "lastname" : "TRILLET-LENOIR",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "grade" : 7.142857142857143
+}, {
+  "plenary_id" : 6986,
+  "firstname" : "Laura",
+  "lastname" : "HUHTASAARI",
+  "country" : "fi",
+  "political_group" : "NI",
+  "national_political_group" : "Perussuomalaiset",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 6987,
+  "firstname" : "Anna Júlia",
+  "lastname" : "DONÁTH",
+  "country" : "hu",
+  "political_group" : "Renew",
+  "national_political_group" : "Momentum",
+  "grade" : 18.181818181818183
+}, {
+  "plenary_id" : 6988,
+  "firstname" : "Jordan",
+  "lastname" : "BARDELLA",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 6989,
+  "firstname" : "Teuvo",
+  "lastname" : "HAKKARAINEN",
+  "country" : "fi",
+  "political_group" : "ECR",
+  "national_political_group" : "Perussuomalaiset",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 6990,
+  "firstname" : "Hélène",
+  "lastname" : "LAPORTE",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 2.5
+}, {
+  "plenary_id" : 6997,
+  "firstname" : "Javier",
+  "lastname" : "ZARZALEJOS",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 6998,
+  "firstname" : "Pietro",
+  "lastname" : "FIOCCHI",
+  "country" : "it",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 6999,
+  "firstname" : "Gianantonio",
+  "lastname" : "DA RE",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7000,
+  "firstname" : "Paolo",
+  "lastname" : "BORCHIA",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.8181818181818181
+}, {
+  "plenary_id" : 7001,
+  "firstname" : "Alessandra",
+  "lastname" : "BASSO",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7002,
+  "firstname" : "Elena",
+  "lastname" : "LIZZI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7005,
+  "firstname" : "Marco",
+  "lastname" : "DREOSTO",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 2.0
+}, {
+  "plenary_id" : 7006,
+  "firstname" : "Jérôme",
+  "lastname" : "RIVIÈRE",
+  "country" : "fr",
+  "political_group" : "NI",
+  "national_political_group" : "Indépendant",
+  "grade" : 1.25
+}, {
+  "plenary_id" : 7007,
+  "firstname" : "Rosanna",
+  "lastname" : "CONTE",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7008,
+  "firstname" : "Carlo",
+  "lastname" : "CALENDA",
+  "country" : "it",
+  "political_group" : "Renew",
+  "national_political_group" : "Azione",
+  "grade" : 13.75
+}, {
+  "plenary_id" : 7009,
+  "firstname" : "Elisabetta",
+  "lastname" : "GUALMINI",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7010,
+  "firstname" : "Sabrina",
+  "lastname" : "PIGNEDOLI",
+  "country" : "it",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "grade" : 17.692307692307693
+}, {
+  "plenary_id" : 7012,
+  "firstname" : "Juan Ignacio",
+  "lastname" : "ZOIDO ÁLVAREZ",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 4.8
+}, {
+  "plenary_id" : 7013,
+  "firstname" : "Thierry",
+  "lastname" : "MARIANI",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7014,
+  "firstname" : "Ivars",
+  "lastname" : "IJABS",
+  "country" : "lv",
+  "political_group" : "Renew",
+  "national_political_group" : "Attīstībai/Par!",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 7016,
+  "firstname" : "Hervé",
+  "lastname" : "JUVIN",
+  "country" : "fr",
+  "political_group" : "NI",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 5.2631578947368425
+}, {
+  "plenary_id" : 7017,
+  "firstname" : "Virginie",
+  "lastname" : "JORON",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7018,
+  "firstname" : "Jean-Paul",
+  "lastname" : "GARRAUD",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 7019,
+  "firstname" : "Catherine",
+  "lastname" : "GRISET",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7020,
+  "firstname" : "Maxette",
+  "lastname" : "PIRBAKAS",
+  "country" : "fr",
+  "political_group" : "NI",
+  "national_political_group" : "Indépendant",
+  "grade" : 2.3529411764705883
+}, {
+  "plenary_id" : 7021,
+  "firstname" : "Dacian",
+  "lastname" : "CIOLOŞ",
+  "country" : "ro",
+  "political_group" : "Renew",
+  "national_political_group" : "Reînnoim Proiectul European al României",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7022,
+  "firstname" : "Claudia",
+  "lastname" : "GAMON",
+  "country" : "at",
+  "political_group" : "Renew",
+  "national_political_group" : "NEOS – Das Neue Österreich",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 7023,
+  "firstname" : "Pedro",
+  "lastname" : "MARQUES",
+  "country" : "pt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7024,
+  "firstname" : "Maria-Manuel",
+  "lastname" : "LEITÃO-MARQUES",
+  "country" : "pt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7025,
+  "firstname" : "Ioan-Rareş",
+  "lastname" : "BOGDAN",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 7026,
+  "firstname" : "Vasile",
+  "lastname" : "BLAGA",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7027,
+  "firstname" : "Margarida",
+  "lastname" : "MARQUES",
+  "country" : "pt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 7030,
+  "firstname" : "Sara",
+  "lastname" : "CERDAS",
+  "country" : "pt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 7034,
+  "firstname" : "Francisco",
+  "lastname" : "GUERREIRO",
+  "country" : "pt",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independente",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7035,
+  "firstname" : "Mircea-Gheorghe",
+  "lastname" : "HAVA",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "grade" : 5.0
+}, {
+  "plenary_id" : 7036,
+  "firstname" : "Dan-Ştefan",
+  "lastname" : "MOTREANU",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "grade" : 6.363636363636363
+}, {
+  "plenary_id" : 7037,
+  "firstname" : "Alexander",
+  "lastname" : "BERNHUBER",
+  "country" : "at",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 7038,
+  "firstname" : "Gheorghe",
+  "lastname" : "FALCĂ",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7039,
+  "firstname" : "Isabel",
+  "lastname" : "SANTOS",
+  "country" : "pt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 7040,
+  "firstname" : "Carmen",
+  "lastname" : "AVRAM",
+  "country" : "ro",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "grade" : 9.6
+}, {
+  "plenary_id" : 7041,
+  "firstname" : "Angelika",
+  "lastname" : "WINZIG",
+  "country" : "at",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 7042,
+  "firstname" : "Claudiu",
+  "lastname" : "MANDA",
+  "country" : "ro",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "grade" : 13.333333333333334
+}, {
+  "plenary_id" : 7043,
+  "firstname" : "Ciarán",
+  "lastname" : "CUFFE",
+  "country" : "ie",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Green Party",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7044,
+  "firstname" : "Cristian",
+  "lastname" : "TERHEŞ",
+  "country" : "ro",
+  "political_group" : "ECR",
+  "national_political_group" : "Partidul Național Țărănesc Creștin Democrat",
+  "grade" : 3.6363636363636362
+}, {
+  "plenary_id" : 7045,
+  "firstname" : "Simone",
+  "lastname" : "SCHMIEDTBAUER",
+  "country" : "at",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7046,
+  "firstname" : "Tudor",
+  "lastname" : "CIUHODARU",
+  "country" : "ro",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 7047,
+  "firstname" : "Adrian-Dragoş",
+  "lastname" : "BENEA",
+  "country" : "ro",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 7050,
+  "firstname" : "Cristian",
+  "lastname" : "GHINEA",
+  "country" : "ro",
+  "political_group" : "Renew",
+  "national_political_group" : "USR-PLUS",
+  "grade" : 6.666666666666667
+}, {
+  "plenary_id" : 7051,
+  "firstname" : "Vangelis",
+  "lastname" : "MEIMARAKIS",
+  "country" : "gr",
+  "political_group" : "EPP",
+  "national_political_group" : "Nea Demokratia",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7052,
+  "firstname" : "Dragoş",
+  "lastname" : "PÎSLARU",
+  "country" : "ro",
+  "political_group" : "Renew",
+  "national_political_group" : "Reînnoim Proiectul European al României",
+  "grade" : 14.4
+}, {
+  "plenary_id" : 7053,
+  "firstname" : "Clotilde",
+  "lastname" : "ARMAND",
+  "country" : "ro",
+  "political_group" : "Renew",
+  "national_political_group" : "Uniunea Salvați România",
+  "grade" : 6.666666666666667
+}, {
+  "plenary_id" : 7054,
+  "firstname" : "Dragoş",
+  "lastname" : "TUDORACHE",
+  "country" : "ro",
+  "political_group" : "Renew",
+  "national_political_group" : "Reînnoim Proiectul European al României",
+  "grade" : 13.6
+}, {
+  "plenary_id" : 7055,
+  "firstname" : "Nicolae",
+  "lastname" : "ŞTEFĂNUȚĂ",
+  "country" : "ro",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 7056,
+  "firstname" : "Barbara",
+  "lastname" : "THALER",
+  "country" : "at",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7057,
+  "firstname" : "Vlad-Marius",
+  "lastname" : "BOTOŞ",
+  "country" : "ro",
+  "political_group" : "Renew",
+  "national_political_group" : "Uniunea Salvați România",
+  "grade" : 11.538461538461538
+}, {
+  "plenary_id" : 7058,
+  "firstname" : "Ramona",
+  "lastname" : "STRUGARIU",
+  "country" : "ro",
+  "political_group" : "Renew",
+  "national_political_group" : "Reînnoim Proiectul European al României",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 7059,
+  "firstname" : "Andreas",
+  "lastname" : "SCHIEDER",
+  "country" : "at",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 7060,
+  "firstname" : "Traian",
+  "lastname" : "BĂSESCU",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Mișcarea Populară",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7061,
+  "firstname" : "Eugen",
+  "lastname" : "TOMAC",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Mișcarea Populară",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 7062,
+  "firstname" : "Loránt",
+  "lastname" : "VINCZE",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Uniunea Democrată Maghiară din România",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7064,
+  "firstname" : "Sarah",
+  "lastname" : "WIENER",
+  "country" : "at",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Die Grünen - Die Grüne Alternative",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7065,
+  "firstname" : "Günther",
+  "lastname" : "SIDL",
+  "country" : "at",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 7066,
+  "firstname" : "Bettina",
+  "lastname" : "VOLLATH",
+  "country" : "at",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "grade" : 14.0
+}, {
+  "plenary_id" : 7067,
+  "firstname" : "Isabel",
+  "lastname" : "BENJUMEA BENJUMEA",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 7068,
+  "firstname" : "Aurélia",
+  "lastname" : "BEIGNEUX",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7069,
+  "firstname" : "Sira",
+  "lastname" : "REGO",
+  "country" : "es",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Izquierda Unida",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 7070,
+  "firstname" : "Hannes",
+  "lastname" : "HEIDE",
+  "country" : "at",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 7071,
+  "firstname" : "Gilbert",
+  "lastname" : "COLLARD",
+  "country" : "fr",
+  "political_group" : "NI",
+  "national_political_group" : "Reconquête!",
+  "grade" : 2.0
+}, {
+  "plenary_id" : 7072,
+  "firstname" : "Pernando",
+  "lastname" : "BARRENA ARZA",
+  "country" : "es",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "EH BILDU",
+  "grade" : 18.0
+}, {
+  "plenary_id" : 7074,
+  "firstname" : "Julie",
+  "lastname" : "LECHANTEUX",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 2.0
+}, {
+  "plenary_id" : 7075,
+  "firstname" : "Philippe",
+  "lastname" : "OLIVIER",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7076,
+  "firstname" : "Annika",
+  "lastname" : "BRUNA",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.6
+}, {
+  "plenary_id" : 7078,
+  "firstname" : "André",
+  "lastname" : "ROUGÉ",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 0.8695652173913043
+}, {
+  "plenary_id" : 7079,
+  "firstname" : "Mathilde",
+  "lastname" : "ANDROUËT",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 7080,
+  "firstname" : "Stelios",
+  "lastname" : "KYMPOUROPOULOS",
+  "country" : "gr",
+  "political_group" : "EPP",
+  "national_political_group" : "Nea Demokratia",
+  "grade" : 6.0
+}, {
+  "plenary_id" : 7082,
+  "firstname" : "Raphaël",
+  "lastname" : "GLUCKSMANN",
+  "country" : "fr",
+  "political_group" : "S&D",
+  "national_political_group" : "Place publique",
+  "grade" : 17.6
+}, {
+  "plenary_id" : 7083,
+  "firstname" : "Anna-Michelle",
+  "lastname" : "ASIMAKOPOULOU",
+  "country" : "gr",
+  "political_group" : "EPP",
+  "national_political_group" : "Nea Demokratia",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7085,
+  "firstname" : "Aurore",
+  "lastname" : "LALUCQ",
+  "country" : "fr",
+  "political_group" : "S&D",
+  "national_political_group" : "Place publique",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7086,
+  "firstname" : "Pierre",
+  "lastname" : "LARROUTUROU",
+  "country" : "fr",
+  "political_group" : "S&D",
+  "national_political_group" : "Nouvelle Donne",
+  "grade" : 16.153846153846153
+}, {
+  "plenary_id" : 7087,
+  "firstname" : "Elena",
+  "lastname" : "KOUNTOURA",
+  "country" : "gr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Coalition of the Radical Left",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 7089,
+  "firstname" : "Konstantinos",
+  "lastname" : "ARVANITIS",
+  "country" : "gr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Coalition of the Radical Left",
+  "grade" : 18.0
+}, {
+  "plenary_id" : 7090,
+  "firstname" : "Lina",
+  "lastname" : "GÁLVEZ MUÑOZ",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 12.0
+}, {
+  "plenary_id" : 7097,
+  "firstname" : "Robert",
+  "lastname" : "ROOS",
+  "country" : "nl",
+  "political_group" : "ECR",
+  "national_political_group" : "JA21",
+  "grade" : 3.2
+}, {
+  "plenary_id" : 7099,
+  "firstname" : "Dolors",
+  "lastname" : "MONTSERRAT",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 7105,
+  "firstname" : "Ibán",
+  "lastname" : "GARCÍA DEL BLANCO",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 7106,
+  "firstname" : "Nicolás",
+  "lastname" : "GONZÁLEZ CASARES",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 7107,
+  "firstname" : "Cristina",
+  "lastname" : "MAESTRE MARTÍN DE ALMAGRO",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7108,
+  "firstname" : "Frances",
+  "lastname" : "FITZGERALD",
+  "country" : "ie",
+  "political_group" : "EPP",
+  "national_political_group" : "Fine Gael Party",
+  "grade" : 8.461538461538462
+}, {
+  "plenary_id" : 7109,
+  "firstname" : "César",
+  "lastname" : "LUENA",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 7110,
+  "firstname" : "Nacho",
+  "lastname" : "SÁNCHEZ AMOR",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 7111,
+  "firstname" : "Mónica Silvana",
+  "lastname" : "GONZÁLEZ",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 15.0
+}, {
+  "plenary_id" : 7113,
+  "firstname" : "Clare",
+  "lastname" : "DALY",
+  "country" : "ie",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Independents for change",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7114,
+  "firstname" : "Manuel",
+  "lastname" : "PIZARRO",
+  "country" : "pt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "grade" : 16.25
+}, {
+  "plenary_id" : 7116,
+  "firstname" : "Lefteris",
+  "lastname" : "NIKOLAOU-ALAVANOS",
+  "country" : "gr",
+  "political_group" : "NI",
+  "national_political_group" : "Communist Party of Greece",
+  "grade" : 8.0
+}, {
+  "plenary_id" : 7117,
+  "firstname" : "Adriana",
+  "lastname" : "MALDONADO LÓPEZ",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 11.578947368421053
+}, {
+  "plenary_id" : 7119,
+  "firstname" : "Ioannis",
+  "lastname" : "LAGOS",
+  "country" : "gr",
+  "political_group" : "NI",
+  "national_political_group" : "Independent",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7120,
+  "firstname" : "Lídia",
+  "lastname" : "PEREIRA",
+  "country" : "pt",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7122,
+  "firstname" : "Alicia",
+  "lastname" : "HOMS GINEL",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 7123,
+  "firstname" : "Athanasios",
+  "lastname" : "KONSTANTINOU",
+  "country" : "gr",
+  "political_group" : "NI",
+  "national_political_group" : "Independent",
+  "grade" : 8.421052631578947
+}, {
+  "plenary_id" : 7125,
+  "firstname" : "Isabel",
+  "lastname" : "GARCÍA MUÑOZ",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7126,
+  "firstname" : "Petros",
+  "lastname" : "KOKKALIS",
+  "country" : "gr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Coalition of the Radical Left",
+  "grade" : 17.692307692307693
+}, {
+  "plenary_id" : 7128,
+  "firstname" : "Domènec",
+  "lastname" : "RUIZ DEVESA",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7129,
+  "firstname" : "Álvaro",
+  "lastname" : "AMARO",
+  "country" : "pt",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "grade" : 4.285714285714286
+}, {
+  "plenary_id" : 7133,
+  "firstname" : "José",
+  "lastname" : "GUSMÃO",
+  "country" : "pt",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Bloco de Esquerda",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7138,
+  "firstname" : "Sandra",
+  "lastname" : "PEREIRA",
+  "country" : "pt",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Partido Comunista Português",
+  "grade" : 16.8
+}, {
+  "plenary_id" : 7140,
+  "firstname" : "Vera",
+  "lastname" : "TAX",
+  "country" : "nl",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "grade" : 14.0
+}, {
+  "plenary_id" : 7145,
+  "firstname" : "Miroslav",
+  "lastname" : "ČÍŽ",
+  "country" : "sk",
+  "political_group" : "S&D",
+  "national_political_group" : "SMER-Sociálna demokracia",
+  "grade" : 12.0
+}, {
+  "plenary_id" : 7146,
+  "firstname" : "Robert",
+  "lastname" : "HAJŠEL",
+  "country" : "sk",
+  "political_group" : "S&D",
+  "national_political_group" : "Independent",
+  "grade" : 13.6
+}, {
+  "plenary_id" : 7147,
+  "firstname" : "Milan",
+  "lastname" : "UHRÍK",
+  "country" : "sk",
+  "political_group" : "NI",
+  "national_political_group" : "Hnutie Republika",
+  "grade" : 4.8
+}, {
+  "plenary_id" : 7148,
+  "firstname" : "Miroslav",
+  "lastname" : "RADAČOVSKÝ",
+  "country" : "sk",
+  "political_group" : "NI",
+  "national_political_group" : "Slovak PATRIOT",
+  "grade" : 3.8461538461538463
+}, {
+  "plenary_id" : 7149,
+  "firstname" : "Peter",
+  "lastname" : "POLLÁK",
+  "country" : "sk",
+  "political_group" : "EPP",
+  "national_political_group" : "Obyčajní ľudia a nezávislé osobnosti",
+  "grade" : 9.23076923076923
+}, {
+  "plenary_id" : 7150,
+  "firstname" : "Lucia",
+  "lastname" : "ĎURIŠ NICHOLSONOVÁ",
+  "country" : "sk",
+  "political_group" : "Renew",
+  "national_political_group" : "Independent",
+  "grade" : 14.545454545454545
+}, {
+  "plenary_id" : 7151,
+  "firstname" : "Eugen",
+  "lastname" : "JURZYCA",
+  "country" : "sk",
+  "political_group" : "ECR",
+  "national_political_group" : "Sloboda a Solidarita",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 7152,
+  "firstname" : "Michal",
+  "lastname" : "ŠIMEČKA",
+  "country" : "sk",
+  "political_group" : "Renew",
+  "national_political_group" : "Progresívne Slovensko",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 7153,
+  "firstname" : "Michal",
+  "lastname" : "WIEZIK",
+  "country" : "sk",
+  "political_group" : "Renew",
+  "national_political_group" : "Progresívne Slovensko",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 7154,
+  "firstname" : "Martin",
+  "lastname" : "HOJSÍK",
+  "country" : "sk",
+  "political_group" : "Renew",
+  "national_political_group" : "Progresívne Slovensko",
+  "grade" : 16.923076923076923
+}, {
+  "plenary_id" : 7155,
+  "firstname" : "Vladimír",
+  "lastname" : "BILČÍK",
+  "country" : "sk",
+  "political_group" : "EPP",
+  "national_political_group" : "Slovakia – Demokrati",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7156,
+  "firstname" : "Tineke",
+  "lastname" : "STRIK",
+  "country" : "nl",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "GroenLinks",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7157,
+  "firstname" : "Bert-Jan",
+  "lastname" : "RUISSEN",
+  "country" : "nl",
+  "political_group" : "ECR",
+  "national_political_group" : "Staatkundig Gereformeerde Partij",
+  "grade" : 0.7692307692307693
+}, {
+  "plenary_id" : 7160,
+  "firstname" : "Rob",
+  "lastname" : "ROOKEN",
+  "country" : "nl",
+  "political_group" : "ECR",
+  "national_political_group" : "JA21",
+  "grade" : 3.0
+}, {
+  "plenary_id" : 7161,
+  "firstname" : "Leopoldo",
+  "lastname" : "LÓPEZ GIL",
+  "country" : "es",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 7162,
+  "firstname" : "Tom",
+  "lastname" : "BERENDSEN",
+  "country" : "nl",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen Democratisch Appèl",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 7163,
+  "firstname" : "José Ramón",
+  "lastname" : "BAUZÁ DÍAZ",
+  "country" : "es",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "grade" : 6.153846153846154
+}, {
+  "plenary_id" : 7164,
+  "firstname" : "Bart",
+  "lastname" : "GROOTHUIS",
+  "country" : "nl",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "grade" : 3.8461538461538463
+}, {
+  "plenary_id" : 7165,
+  "firstname" : "Malik",
+  "lastname" : "AZMANI",
+  "country" : "nl",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "grade" : 3.8461538461538463
+}, {
+  "plenary_id" : 7166,
+  "firstname" : "Mohammed",
+  "lastname" : "CHAHIM",
+  "country" : "nl",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 7167,
+  "firstname" : "Andris",
+  "lastname" : "AMERIKS",
+  "country" : "lv",
+  "political_group" : "S&D",
+  "national_political_group" : "Gods kalpot Rīgai",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7168,
+  "firstname" : "Susana",
+  "lastname" : "SOLÍS PÉREZ",
+  "country" : "es",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "grade" : 12.0
+}, {
+  "plenary_id" : 7169,
+  "firstname" : "Eugenia",
+  "lastname" : "RODRÍGUEZ PALOP",
+  "country" : "es",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "PODEMOS",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7170,
+  "firstname" : "Susanna",
+  "lastname" : "CECCARDI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 7171,
+  "firstname" : "Antonio Maria",
+  "lastname" : "RINALDI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7172,
+  "firstname" : "Anna",
+  "lastname" : "BONFRISCO",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 2.5
+}, {
+  "plenary_id" : 7173,
+  "firstname" : "Dace",
+  "lastname" : "MELBĀRDE",
+  "country" : "lv",
+  "political_group" : "EPP",
+  "national_political_group" : "Partija \"VIENOTĪBA\"",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 7174,
+  "firstname" : "Simona",
+  "lastname" : "BALDASSARRE",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 2.5
+}, {
+  "plenary_id" : 7175,
+  "firstname" : "Luisa",
+  "lastname" : "REGIMENTI",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 4.0
+}, {
+  "plenary_id" : 7176,
+  "firstname" : "Massimiliano",
+  "lastname" : "SMERIGLIO",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 14.615384615384615
+}, {
+  "plenary_id" : 7177,
+  "firstname" : "Daniela",
+  "lastname" : "RONDINELLI",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 7179,
+  "firstname" : "Chiara",
+  "lastname" : "GEMMA",
+  "country" : "it",
+  "political_group" : "ECR",
+  "national_political_group" : "FRATELLI D' ITALIA",
+  "grade" : 10.76923076923077
+}, {
+  "plenary_id" : 7180,
+  "firstname" : "Mario",
+  "lastname" : "FURORE",
+  "country" : "it",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "grade" : 17.142857142857142
+}, {
+  "plenary_id" : 7181,
+  "firstname" : "Massimo",
+  "lastname" : "CASANOVA",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 2.0
+}, {
+  "plenary_id" : 7182,
+  "firstname" : "Andrea",
+  "lastname" : "CAROPPO",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 6.666666666666667
+}, {
+  "plenary_id" : 7183,
+  "firstname" : "Lucia",
+  "lastname" : "VUOLO",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 3.8461538461538463
+}, {
+  "plenary_id" : 7184,
+  "firstname" : "Valentino",
+  "lastname" : "GRANT",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 7185,
+  "firstname" : "Eero",
+  "lastname" : "HEINÄLUOMA",
+  "country" : "fi",
+  "political_group" : "S&D",
+  "national_political_group" : "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 7186,
+  "firstname" : "Franco",
+  "lastname" : "ROBERTI",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 13.6
+}, {
+  "plenary_id" : 7187,
+  "firstname" : "Ville",
+  "lastname" : "NIINISTÖ",
+  "country" : "fi",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Vihreä liitto",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7189,
+  "firstname" : "Dino",
+  "lastname" : "GIARRUSSO",
+  "country" : "it",
+  "political_group" : "NI",
+  "national_political_group" : "Independent",
+  "grade" : 18.26086956521739
+}, {
+  "plenary_id" : 7190,
+  "firstname" : "Silvia",
+  "lastname" : "MODIG",
+  "country" : "fi",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Vasemmistoliitto",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7191,
+  "firstname" : "Annalisa",
+  "lastname" : "TARDINO",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.8181818181818181
+}, {
+  "plenary_id" : 7193,
+  "firstname" : "Pietro",
+  "lastname" : "BARTOLO",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 7195,
+  "firstname" : "Nils",
+  "lastname" : "UŠAKOVS",
+  "country" : "lv",
+  "political_group" : "S&D",
+  "national_political_group" : "\"Saskaņa\" sociāldemokrātiskā partija",
+  "grade" : 11.578947368421053
+}, {
+  "plenary_id" : 7202,
+  "firstname" : "Mick",
+  "lastname" : "WALLACE",
+  "country" : "ie",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Independents for change",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7203,
+  "firstname" : "Billy",
+  "lastname" : "KELLEHER",
+  "country" : "ie",
+  "political_group" : "Renew",
+  "national_political_group" : "Fianna Fáil Party",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 7204,
+  "firstname" : "Alexis",
+  "lastname" : "GEORGOULIS",
+  "country" : "gr",
+  "political_group" : "NI",
+  "national_political_group" : "Independent",
+  "grade" : 17.894736842105264
+}, {
+  "plenary_id" : 7205,
+  "firstname" : "Nicola",
+  "lastname" : "PROCACCINI",
+  "country" : "it",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 7207,
+  "firstname" : "Francesca",
+  "lastname" : "DONATO",
+  "country" : "it",
+  "political_group" : "NI",
+  "national_political_group" : "Democrazia Cristiana",
+  "grade" : 1.0526315789473684
+}, {
+  "plenary_id" : 7209,
+  "firstname" : "Giuseppe",
+  "lastname" : "MILAZZO",
+  "country" : "it",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "grade" : 3.75
+}, {
+  "plenary_id" : 7210,
+  "firstname" : "Raffaele",
+  "lastname" : "STANCANELLI",
+  "country" : "it",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "grade" : 3.076923076923077
+}, {
+  "plenary_id" : 7211,
+  "firstname" : "Matteo",
+  "lastname" : "ADINOLFI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7212,
+  "firstname" : "Idoia",
+  "lastname" : "VILLANUEVA RUIZ",
+  "country" : "es",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "PODEMOS",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7213,
+  "firstname" : "Manu",
+  "lastname" : "PINEDA",
+  "country" : "es",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Izquierda Unida",
+  "grade" : 18.333333333333332
+}, {
+  "plenary_id" : 7214,
+  "firstname" : "Jorge",
+  "lastname" : "BUXADÉ VILLALBA",
+  "country" : "es",
+  "political_group" : "ECR",
+  "national_political_group" : "VOX",
+  "grade" : 1.0
+}, {
+  "plenary_id" : 7216,
+  "firstname" : "Hermann",
+  "lastname" : "TERTSCH",
+  "country" : "es",
+  "political_group" : "ECR",
+  "national_political_group" : "VOX",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7217,
+  "firstname" : "Diana",
+  "lastname" : "RIBA I GINER",
+  "country" : "es",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Esquerra Republicana de Catalunya",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 7218,
+  "firstname" : "Aušra",
+  "lastname" : "MALDEIKIENĖ",
+  "country" : "lt",
+  "political_group" : "EPP",
+  "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+  "grade" : 7.6923076923076925
+}, {
+  "plenary_id" : 7219,
+  "firstname" : "Alexander",
+  "lastname" : "ALEXANDROV YORDANOV",
+  "country" : "bg",
+  "political_group" : "EPP",
+  "national_political_group" : "Union of Democratic Forces",
+  "grade" : 4.615384615384615
+}, {
+  "plenary_id" : 7220,
+  "firstname" : "Stasys",
+  "lastname" : "JAKELIŪNAS",
+  "country" : "lt",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7221,
+  "firstname" : "Juozas",
+  "lastname" : "OLEKAS",
+  "country" : "lt",
+  "political_group" : "S&D",
+  "national_political_group" : "Lietuvos socialdemokratų partija",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 7222,
+  "firstname" : "Radan",
+  "lastname" : "KANEV",
+  "country" : "bg",
+  "political_group" : "EPP",
+  "national_political_group" : "Democrats for Strong Bulgaria",
+  "grade" : 9.6
+}, {
+  "plenary_id" : 7223,
+  "firstname" : "Rasa",
+  "lastname" : "JUKNEVIČIENĖ",
+  "country" : "lt",
+  "political_group" : "EPP",
+  "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+  "grade" : 5.714285714285714
+}, {
+  "plenary_id" : 7224,
+  "firstname" : "Liudas",
+  "lastname" : "MAŽYLIS",
+  "country" : "lt",
+  "political_group" : "EPP",
+  "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7225,
+  "firstname" : "Elena",
+  "lastname" : "YONCHEVA",
+  "country" : "bg",
+  "political_group" : "S&D",
+  "national_political_group" : "Bulgarian Socialist Party",
+  "grade" : 17.5
+}, {
+  "plenary_id" : 7226,
+  "firstname" : "Andrius",
+  "lastname" : "KUBILIUS",
+  "country" : "lt",
+  "political_group" : "EPP",
+  "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+  "grade" : 5.6
+}, {
+  "plenary_id" : 7227,
+  "firstname" : "Petar",
+  "lastname" : "VITANOV",
+  "country" : "bg",
+  "political_group" : "S&D",
+  "national_political_group" : "Bulgarian Socialist Party",
+  "grade" : 16.0
+}, {
+  "plenary_id" : 7228,
+  "firstname" : "Tsvetelina",
+  "lastname" : "PENKOVA",
+  "country" : "bg",
+  "political_group" : "S&D",
+  "national_political_group" : "Bulgarian Socialist Party",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 7229,
+  "firstname" : "Ivo",
+  "lastname" : "HRISTOV",
+  "country" : "bg",
+  "political_group" : "S&D",
+  "national_political_group" : "Bulgarian Socialist Party",
+  "grade" : 13.68421052631579
+}, {
+  "plenary_id" : 7230,
+  "firstname" : "Atidzhe",
+  "lastname" : "ALIEVA-VELI",
+  "country" : "bg",
+  "political_group" : "Renew",
+  "national_political_group" : "Movement for Rights and Freedoms",
+  "grade" : 4.0
+}, {
+  "plenary_id" : 7231,
+  "firstname" : "Andrey",
+  "lastname" : "SLABAKOV",
+  "country" : "bg",
+  "political_group" : "ECR",
+  "national_political_group" : "VMRO",
+  "grade" : 1.4285714285714286
+}, {
+  "plenary_id" : 7233,
+  "firstname" : "Maria",
+  "lastname" : "WALSH",
+  "country" : "ie",
+  "political_group" : "EPP",
+  "national_political_group" : "Fine Gael Party",
+  "grade" : 8.461538461538462
+}, {
+  "plenary_id" : 7234,
+  "firstname" : "Tom",
+  "lastname" : "VANDENDRIESSCHE",
+  "country" : "be",
+  "political_group" : "ID",
+  "national_political_group" : "Vlaams Belang",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 7235,
+  "firstname" : "Samira",
+  "lastname" : "RAFAELA",
+  "country" : "nl",
+  "political_group" : "Renew",
+  "national_political_group" : "Democraten 66",
+  "grade" : 16.923076923076923
+}, {
+  "plenary_id" : 7236,
+  "firstname" : "Liesje",
+  "lastname" : "SCHREINEMACHER",
+  "country" : "nl",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7237,
+  "firstname" : "Kim",
+  "lastname" : "VAN SPARRENTAK",
+  "country" : "nl",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "GroenLinks",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7240,
+  "firstname" : "Grace",
+  "lastname" : "O'SULLIVAN",
+  "country" : "ie",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Green Party",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7241,
+  "firstname" : "László",
+  "lastname" : "TRÓCSÁNYI",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 3.8461538461538463
+}, {
+  "plenary_id" : 7242,
+  "firstname" : "Ivan Vilibor",
+  "lastname" : "SINČIĆ",
+  "country" : "hr",
+  "political_group" : "NI",
+  "national_political_group" : "KLJUČ Hrvatske",
+  "grade" : 9.0
+}, {
+  "plenary_id" : 7243,
+  "firstname" : "Márton",
+  "lastname" : "GYÖNGYÖSI",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Jobbik – Konzervatívok",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7244,
+  "firstname" : "Mazaly",
+  "lastname" : "AGUILAR",
+  "country" : "es",
+  "political_group" : "ECR",
+  "national_political_group" : "VOX",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7246,
+  "firstname" : "Roman",
+  "lastname" : "HAIDER",
+  "country" : "at",
+  "political_group" : "ID",
+  "national_political_group" : "Freiheitliche Partei Österreichs",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7247,
+  "firstname" : "Mihai",
+  "lastname" : "TUDOSE",
+  "country" : "ro",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "grade" : 9.473684210526315
+}, {
+  "plenary_id" : 7248,
+  "firstname" : "Estrella",
+  "lastname" : "DURÁ FERRANDIS",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 7249,
+  "firstname" : "Lara",
+  "lastname" : "WOLTERS",
+  "country" : "nl",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 7250,
+  "firstname" : "Emmanouil",
+  "lastname" : "FRAGKOS",
+  "country" : "gr",
+  "political_group" : "ECR",
+  "national_political_group" : "Elliniki Lusi-Greek Solution",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 7251,
+  "firstname" : "Marianne",
+  "lastname" : "VIND",
+  "country" : "dk",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialdemokratiet",
+  "grade" : 15.0
+}, {
+  "plenary_id" : 7252,
+  "firstname" : "Isabel",
+  "lastname" : "CARVALHAIS",
+  "country" : "pt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7253,
+  "firstname" : "Sunčana",
+  "lastname" : "GLAVAK",
+  "country" : "hr",
+  "political_group" : "EPP",
+  "national_political_group" : "Hrvatska demokratska zajednica",
+  "grade" : 6.363636363636363
+}, {
+  "plenary_id" : 7254,
+  "firstname" : "Marc",
+  "lastname" : "ANGEL",
+  "country" : "lu",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti ouvrier socialiste luxembourgeois",
+  "grade" : 14.4
+}, {
+  "plenary_id" : 7255,
+  "firstname" : "Gheorghe-Vlad",
+  "lastname" : "NISTOR",
+  "country" : "ro",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7257,
+  "firstname" : "Carles",
+  "lastname" : "PUIGDEMONT I CASAMAJÓ",
+  "country" : "es",
+  "political_group" : "NI",
+  "national_political_group" : "Junts per Catalunya - Lliures per Europa",
+  "grade" : 17.0
+}, {
+  "plenary_id" : 7258,
+  "firstname" : "Antoni",
+  "lastname" : "COMÍN I OLIVERES",
+  "country" : "es",
+  "political_group" : "NI",
+  "national_political_group" : "Junts per Catalunya - Lliures per Europa",
+  "grade" : 17.5
+}, {
+  "plenary_id" : 7259,
+  "firstname" : "Linea",
+  "lastname" : "SØGAARD-LIDELL",
+  "country" : "dk",
+  "political_group" : "Renew",
+  "national_political_group" : "Venstre, Danmarks Liberale Parti",
+  "grade" : 8.75
+}, {
+  "plenary_id" : 7260,
+  "firstname" : "Barry",
+  "lastname" : "ANDREWS",
+  "country" : "ie",
+  "political_group" : "Renew",
+  "national_political_group" : "Fianna Fáil Party",
+  "grade" : 11.2
+}, {
+  "plenary_id" : 7261,
+  "firstname" : "Salvatore",
+  "lastname" : "DE MEO",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7262,
+  "firstname" : "Vincenzo",
+  "lastname" : "SOFO",
+  "country" : "it",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "grade" : 2.5
+}, {
+  "plenary_id" : 7263,
+  "firstname" : "Alviina",
+  "lastname" : "ALAMETSÄ",
+  "country" : "fi",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Vihreä liitto",
+  "grade" : 19.166666666666668
+}, {
+  "plenary_id" : 7264,
+  "firstname" : "Miriam",
+  "lastname" : "LEXMANN",
+  "country" : "sk",
+  "political_group" : "EPP",
+  "national_political_group" : "Kresťanskodemokratické hnutie",
+  "grade" : 7.2727272727272725
+}, {
+  "plenary_id" : 7265,
+  "firstname" : "Dominik",
+  "lastname" : "TARCZYŃSKI",
+  "country" : "pl",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "grade" : 0.9090909090909091
+}, {
+  "plenary_id" : 7266,
+  "firstname" : "Christian",
+  "lastname" : "SAGARTZ",
+  "country" : "at",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "grade" : 5.384615384615385
+}, {
+  "plenary_id" : 7268,
+  "firstname" : "Adrián",
+  "lastname" : "VÁZQUEZ LÁZARA",
+  "country" : "es",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "grade" : 11.538461538461538
+}, {
+  "plenary_id" : 7269,
+  "firstname" : "Marcos",
+  "lastname" : "ROS SEMPERE",
+  "country" : "es",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "grade" : 12.0
+}, {
+  "plenary_id" : 7270,
+  "firstname" : "Margarita",
+  "lastname" : "DE LA PISA CARRIÓN",
+  "country" : "es",
+  "political_group" : "ECR",
+  "national_political_group" : "VOX",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7271,
+  "firstname" : "Ilana",
+  "lastname" : "CICUREL",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7272,
+  "firstname" : "Nora",
+  "lastname" : "MEBAREK",
+  "country" : "fr",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti socialiste",
+  "grade" : 15.384615384615385
+}, {
+  "plenary_id" : 7273,
+  "firstname" : "Sandro",
+  "lastname" : "GOZI",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "grade" : 13.076923076923077
+}, {
+  "plenary_id" : 7274,
+  "firstname" : "Claude",
+  "lastname" : "GRUFFAT",
+  "country" : "fr",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7275,
+  "firstname" : "Jean-Lin",
+  "lastname" : "LACAPELLE",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 1.5384615384615385
+}, {
+  "plenary_id" : 7276,
+  "firstname" : "Clara",
+  "lastname" : "PONSATÍ OBIOLS",
+  "country" : "es",
+  "political_group" : "NI",
+  "national_political_group" : "Junts per Catalunya - Lliures per Europa",
+  "grade" : 18.46153846153846
+}, {
+  "plenary_id" : 7277,
+  "firstname" : "Riho",
+  "lastname" : "TERRAS",
+  "country" : "ee",
+  "political_group" : "EPP",
+  "national_political_group" : "Isamaa",
+  "grade" : 5.0
+}, {
+  "plenary_id" : 7278,
+  "firstname" : "Dorien",
+  "lastname" : "ROOKMAKER",
+  "country" : "nl",
+  "political_group" : "ECR",
+  "national_political_group" : "Meer Directe Democratie",
+  "grade" : 2.3076923076923075
+}, {
+  "plenary_id" : 7279,
+  "firstname" : "Chris",
+  "lastname" : "MACMANUS",
+  "country" : "ie",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Sinn Féin",
+  "grade" : 17.692307692307693
+}, {
+  "plenary_id" : 7280,
+  "firstname" : "Manuela",
+  "lastname" : "RIPA",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Ökologisch-Demokratische Partei",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7281,
+  "firstname" : "Sara",
+  "lastname" : "MATTHIEU",
+  "country" : "be",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Groen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7282,
+  "firstname" : "Cyrus",
+  "lastname" : "ENGERER",
+  "country" : "mt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partit Laburista",
+  "grade" : 13.043478260869565
+}, {
+  "plenary_id" : 7283,
+  "firstname" : "Vlad",
+  "lastname" : "GHEORGHE",
+  "country" : "ro",
+  "political_group" : "Renew",
+  "national_political_group" : "Uniunea Salvați România",
+  "grade" : 15.652173913043478
+}, {
+  "plenary_id" : 7284,
+  "firstname" : "Colm",
+  "lastname" : "MARKEY",
+  "country" : "ie",
+  "political_group" : "EPP",
+  "national_political_group" : "Fine Gael Party",
+  "grade" : 7.2727272727272725
+}, {
+  "plenary_id" : 7285,
+  "firstname" : "Alin",
+  "lastname" : "MITUȚA",
+  "country" : "ro",
+  "political_group" : "Renew",
+  "national_political_group" : "Reînnoim Proiectul European al României",
+  "grade" : 14.782608695652174
+}, {
+  "plenary_id" : 7286,
+  "firstname" : "Ernő",
+  "lastname" : "SCHALLER-BAROSS",
+  "country" : "hu",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "grade" : 2.608695652173913
+}, {
+  "plenary_id" : 7287,
+  "firstname" : "Emma",
+  "lastname" : "WIESNER",
+  "country" : "se",
+  "political_group" : "Renew",
+  "national_political_group" : "Centerpartiet",
+  "grade" : 7.826086956521739
+}, {
+  "plenary_id" : 7288,
+  "firstname" : "Thijs",
+  "lastname" : "REUTEN",
+  "country" : "nl",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "grade" : 15.0
+}, {
+  "plenary_id" : 7289,
+  "firstname" : "Michiel",
+  "lastname" : "HOOGEVEEN",
+  "country" : "nl",
+  "political_group" : "ECR",
+  "national_political_group" : "JA21",
+  "grade" : 4.0
+}, {
+  "plenary_id" : 7290,
+  "firstname" : "Ladislav",
+  "lastname" : "ILČIĆ",
+  "country" : "hr",
+  "political_group" : "ECR",
+  "national_political_group" : "Hrvatski suverenisti",
+  "grade" : 1.1764705882352942
+}, {
+  "plenary_id" : 7291,
+  "firstname" : "Karolin",
+  "lastname" : "BRAUNSBERGER-REINHOLD",
+  "country" : "de",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "grade" : 5.0
+}, {
+  "plenary_id" : 7292,
+  "firstname" : "Karsten",
+  "lastname" : "LUCKE",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 12.0
+}, {
+  "plenary_id" : 7293,
+  "firstname" : "Ilan",
+  "lastname" : "DE BASSO",
+  "country" : "se",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "grade" : 10.0
+}, {
+  "plenary_id" : 7294,
+  "firstname" : "Malte",
+  "lastname" : "GALLÉE",
+  "country" : "de",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7295,
+  "firstname" : "Catharina",
+  "lastname" : "RINZEMA",
+  "country" : "nl",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "grade" : 7.5
+}, {
+  "plenary_id" : 7296,
+  "firstname" : "René",
+  "lastname" : "REPASI",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 12.0
+}, {
+  "plenary_id" : 7297,
+  "firstname" : "Camilla",
+  "lastname" : "LAURETI",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 15.0
+}, {
+  "plenary_id" : 7298,
+  "firstname" : "Matjaž",
+  "lastname" : "NEMEC",
+  "country" : "si",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialni demokrati",
+  "grade" : 16.25
+}, {
+  "plenary_id" : 7299,
+  "firstname" : "Max",
+  "lastname" : "ORVILLE",
+  "country" : "fr",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "grade" : 13.846153846153847
+}, {
+  "plenary_id" : 7300,
+  "firstname" : "Marie",
+  "lastname" : "DAUCHY",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7301,
+  "firstname" : "Eric",
+  "lastname" : "MINARDI",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7302,
+  "firstname" : "Patricia",
+  "lastname" : "CHAGNON",
+  "country" : "fr",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7303,
+  "firstname" : "Marina",
+  "lastname" : "MESURE",
+  "country" : "fr",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7305,
+  "firstname" : "João",
+  "lastname" : "ALBUQUERQUE",
+  "country" : "pt",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7306,
+  "firstname" : "Eva Maria",
+  "lastname" : "POPTCHEVA",
+  "country" : "es",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "grade" : 16.666666666666668
+}, {
+  "plenary_id" : 7307,
+  "firstname" : "Matthias",
+  "lastname" : "ECKE",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7308,
+  "firstname" : "Carina",
+  "lastname" : "OHLSSON",
+  "country" : "se",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7309,
+  "firstname" : "Johan",
+  "lastname" : "NISSINEN",
+  "country" : "se",
+  "political_group" : "ECR",
+  "national_political_group" : "Sverigedemokraterna",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7310,
+  "firstname" : "Theresa",
+  "lastname" : "BIELOWSKI",
+  "country" : "at",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7311,
+  "firstname" : "Matteo",
+  "lastname" : "GAZZINI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7312,
+  "firstname" : "Paola",
+  "lastname" : "GHIDONI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7313,
+  "firstname" : "Achille",
+  "lastname" : "VARIATI",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7314,
+  "firstname" : "Maria Angela",
+  "lastname" : "DANZÌ",
+  "country" : "it",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "grade" : 16.666666666666668
+}, {
+  "plenary_id" : 7315,
+  "firstname" : "Denis",
+  "lastname" : "NESCI",
+  "country" : "it",
+  "political_group" : "ECR",
+  "national_political_group" : "FRATELLI D' ITALIA",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7317,
+  "firstname" : "Eleni",
+  "lastname" : "STAVROU",
+  "country" : "cy",
+  "political_group" : "EPP",
+  "national_political_group" : "Democratic Rally",
+  "grade" : 3.3333333333333335
+}, {
+  "plenary_id" : 7318,
+  "firstname" : "Erik",
+  "lastname" : "POULSEN",
+  "country" : "dk",
+  "political_group" : "Renew",
+  "national_political_group" : "Venstre, Danmarks Liberale Parti",
+  "grade" : 3.3333333333333335
+}, {
+  "plenary_id" : 7319,
+  "firstname" : "Bergur Løkke",
+  "lastname" : "RASMUSSEN",
+  "country" : "dk",
+  "political_group" : "Renew",
+  "national_political_group" : "Moderaterne",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7321,
+  "firstname" : "Beatrice",
+  "lastname" : "COVASSI",
+  "country" : "it",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7322,
+  "firstname" : "Maria Veronica",
+  "lastname" : "ROSSI",
+  "country" : "it",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "grade" : 0.0
+}, {
+  "plenary_id" : 7323,
+  "firstname" : "Francesca",
+  "lastname" : "PEPPUCCI",
+  "country" : "it",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "grade" : 3.3333333333333335
+}, {
+  "plenary_id" : 7324,
+  "firstname" : "Nikos",
+  "lastname" : "PAPANDREOU",
+  "country" : "gr",
+  "political_group" : "S&D",
+  "national_political_group" : "PASOK-KINAL",
+  "grade" : 16.666666666666668
+}, {
+  "plenary_id" : 7325,
+  "firstname" : "Christophe",
+  "lastname" : "CLERGEAU",
+  "country" : "fr",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti socialiste",
+  "grade" : 20.0
+}, {
+  "plenary_id" : 7326,
+  "firstname" : "Thomas",
+  "lastname" : "RUDNER",
+  "country" : "de",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "grade" : 20.0
+} ]

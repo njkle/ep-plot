@@ -1,6 +1,6 @@
 /* global d3 */
 
-d3.json("data/eu_groups0.json").then((data) => {
+d3.json("data/political_groups0.json").then((data) => {
   const width = 800;
   const radius = width / 2;
   const height = radius;
@@ -20,6 +20,8 @@ d3.json("data/eu_groups0.json").then((data) => {
     (a, b) =>
       order.indexOf(a.political_group) - order.indexOf(b.political_group),
   );
+
+  console.log(data);
 
   const color = d3
     .scaleSequential()

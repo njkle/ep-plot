@@ -32,7 +32,7 @@ const svg = d3
   .attr("transform", `translate(${margin.left},${margin.top})`);
 
 // Fetch and process data
-d3.json("data/eu_groups0.json").then((data) => {
+d3.json("data/political_groups0.json").then((data) => {
   const order = [
     "GUE/NGL",
     "S&D",

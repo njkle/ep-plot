@@ -37,7 +37,8 @@ d3.json("data/countries0.json").then((gradesData) => {
   d3.json("data/europe.geojson").then((mapData) => {
     const updatedFeatures = mapData.features.map((mapFeature) => {
       const gradeCountry = gradesData.find(
-        (country) => country.code.toUpperCase() === mapFeature.properties.ISO2,
+        (country) =>
+          country.country.toUpperCase() === mapFeature.properties.ISO2,
       );
 
       // Create a new object with all properties of mapFeature
